@@ -1,6 +1,6 @@
 # Smoke test — InfoComm Quiz
 
-Data: 2026-09-29T15:59:52Z · Casi: 12 · PASS: 12 · FAIL: 0
+Data: 2026-09-29T16:23:52Z · Casi: 12 · PASS: 12 · FAIL: 0
 
 | ID | Caso | Esito | Dettaglio |
 |---|---|---|---|

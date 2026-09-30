@@ -1,0 +1,707 @@
+{
+  "id": "b4",
+  "title": "Immagini, audio e video",
+  "description": "Dalla rappresentazione digitale all’elaborazione e al montaggio.",
+  "book_pages": [
+    466,
+    525
+  ],
+  "questions": [
+    {
+      "id": "b4-q01",
+      "q": "Un trasduttore audio come il microfono…",
+      "options": [
+        "trasforma onde di pressione in segnali elettrici",
+        "cuoce la pasta",
+        "stampa foto",
+        "proietta film"
+      ],
+      "answer": 0,
+      "explanation": "Il microfono converte variazioni di pressione sonora in un segnale elettrico utilizzabile per la registrazione.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 470 (PDF p. 486)",
+      "bookPage": 470,
+      "pdfPage": 486,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q02",
+      "q": "La rappresentazione digitale di suoni/immagini richiede…",
+      "options": [
+        "campionamento e quantizzazione in bit",
+        "solo carta e penna",
+        "niente formati",
+        "solo TV analogica"
+      ],
+      "answer": 0,
+      "explanation": "Campionamento e quantizzazione trasformano una grandezza continua in una rappresentazione discreta.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 475 (PDF p. 491)",
+      "bookPage": 475,
+      "pdfPage": 491,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q03",
+      "q": "Per elaborare immagini (es. sostituire uno sfondo) si usano…",
+      "options": [
+        "selezioni e livelli in un editor grafico",
+        "solo il blocco note",
+        "la calcolatrice",
+        "il martello"
+      ],
+      "answer": 0,
+      "explanation": "Selezioni e livelli consentono di isolare elementi e combinarli senza modificare ogni parte insieme.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 479 (PDF p. 495)",
+      "bookPage": 479,
+      "pdfPage": 495,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q04",
+      "q": "Shotcut è…",
+      "options": [
+        "un editor video gratuito per tagliare e montare filmati",
+        "un virus",
+        "una stampante",
+        "un social"
+      ],
+      "answer": 0,
+      "explanation": "Shotcut è presentato come software per montare ed elaborare video con strumenti di taglio, filtri e timeline.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 510 (PDF p. 526)",
+      "bookPage": 510,
+      "pdfPage": 526,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q05",
+      "q": "Aggiungere didascalie e riconoscimenti a un video permette di…",
+      "options": [
+        "dare contesto e indicare i contributi",
+        "ottenere automaticamente ogni licenza",
+        "eliminare la necessità di montaggio",
+        "ridurre sempre la durata del video"
+      ],
+      "answer": 0,
+      "explanation": "Didascalie e riconoscimenti accompagnano il contenuto e possono indicare autori e contributi; non sostituiscono i permessi di utilizzo.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 502 (PDF p. 518)",
+      "bookPage": 502,
+      "pdfPage": 518,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q06",
+      "q": "Formati e compressione servono a…",
+      "options": [
+        "bilanciare qualità e peso di audio/video/immagini",
+        "eliminare i file",
+        "non servono",
+        "aumentare sempre il peso"
+      ],
+      "answer": 0,
+      "explanation": "Formato e compressione influenzano dimensioni, compatibilità e qualità dei contenuti digitali.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 473 (PDF p. 489)",
+      "bookPage": 473,
+      "pdfPage": 489,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q07",
+      "q": "Prima di produrre un audiovisivo aziendale occorre considerare…",
+      "options": [
+        "pubblico, messaggio e contesto di fruizione",
+        "solo la durata più lunga possibile",
+        "soltanto il numero di file",
+        "solo la velocità del mouse"
+      ],
+      "answer": 0,
+      "explanation": "La produzione multimediale deve considerare destinazione, pubblico e condizioni d’uso del materiale.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 466 (PDF p. 482)",
+      "bookPage": 466,
+      "pdfPage": 482,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q08",
+      "q": "Il microfono è un esempio di trasduttore audio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un trasduttore converte una forma di segnale in un’altra: il microfono converte il suono in segnale elettrico.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 470 (PDF p. 486)",
+      "bookPage": 470,
+      "pdfPage": 486,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q09",
+      "q": "Comprimere un video riduce sempre e solo la qualità senza vantaggi.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La compressione riduce il volume dei dati; il compromesso con la qualità dipende dal metodo e dalle impostazioni.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 473 (PDF p. 489)",
+      "bookPage": 473,
+      "pdfPage": 489,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q10",
+      "q": "Citare un autore nei titoli non sostituisce i permessi necessari per usare il materiale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "I riconoscimenti documentano i contributi; la citazione degli autori non rende automaticamente autorizzato ogni riuso.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 502 (PDF p. 518)",
+      "bookPage": 502,
+      "pdfPage": 518,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q11",
+      "q": "Il pixel è…",
+      "options": [
+        "il punto elementare dell'immagine",
+        "un folletto",
+        "un insetto",
+        "un pesce"
+      ],
+      "answer": 0,
+      "explanation": "Il pixel è un elemento della griglia che rappresenta un’immagine raster.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 473 (PDF p. 489)",
+      "bookPage": 473,
+      "pdfPage": 489,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q12",
+      "q": "La profondità di colore indica…",
+      "options": [
+        "i bit per pixel",
+        "la profondità del mare",
+        "l'altezza",
+        "il peso"
+      ],
+      "answer": 0,
+      "explanation": "La profondità di colore indica i bit dedicati alla rappresentazione del colore e influenza i valori disponibili.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 474 (PDF p. 490)",
+      "bookPage": 474,
+      "pdfPage": 490,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q13",
+      "q": "La frequenza di campionamento audio indica…",
+      "options": [
+        "il numero di campioni acquisiti al secondo",
+        "il volume massimo delle casse",
+        "il numero di canali televisivi",
+        "le dimensioni in pixel"
+      ],
+      "answer": 0,
+      "explanation": "La frequenza di campionamento indica quanti campioni vengono acquisiti in un secondo e si misura in hertz.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 468 (PDF p. 484)",
+      "bookPage": 468,
+      "pdfPage": 484,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q14",
+      "q": "Il formato MP3 è…",
+      "options": [
+        "audio compresso e leggero",
+        "video",
+        "immagine",
+        "testo"
+      ],
+      "answer": 0,
+      "explanation": "MP3 è un formato audio con compressione con perdita, utile a ridurre il volume dei dati.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 469 (PDF p. 485)",
+      "bookPage": 469,
+      "pdfPage": 485,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q15",
+      "q": "Un file WAV con audio PCM non compresso…",
+      "options": [
+        "conserva campioni audio senza compressione con perdita",
+        "è necessariamente più piccolo di un MP3 equivalente",
+        "contiene solo immagini",
+        "è un foglio di calcolo"
+      ],
+      "answer": 0,
+      "explanation": "WAV è un contenitore audio spesso usato con dati PCM non compressi; non impone sempre una sola codifica.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 469 (PDF p. 485)",
+      "bookPage": 469,
+      "pdfPage": 485,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q16",
+      "q": "MP4 è…",
+      "options": [
+        "un contenitore multimediale che può includere audio e video",
+        "un editor di immagini",
+        "un protocollo di posta",
+        "un tipo di formula"
+      ],
+      "answer": 0,
+      "explanation": "MP4 è un contenitore multimediale comune che può includere flussi audio e video.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 473 (PDF p. 489)",
+      "bookPage": 473,
+      "pdfPage": 489,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q17",
+      "q": "Il formato GIF può contenere…",
+      "options": [
+        "una sequenza animata di fotogrammi",
+        "soltanto registrazioni audio",
+        "formule contabili",
+        "dati di protocollo"
+      ],
+      "answer": 0,
+      "explanation": "GIF può contenere una sequenza animata di fotogrammi; non ogni file GIF è necessariamente animato.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 486 (PDF p. 502)",
+      "bookPage": 486,
+      "pdfPage": 502,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q18",
+      "q": "Il PNG…",
+      "options": [
+        "supporta la trasparenza",
+        "non comprime mai",
+        "è solo foto",
+        "è un video"
+      ],
+      "answer": 0,
+      "explanation": "PNG supporta la trasparenza ed è adatto anche a elementi grafici per il web.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 486 (PDF p. 502)",
+      "bookPage": 486,
+      "pdfPage": 502,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q19",
+      "q": "Il ridimensionamento…",
+      "options": [
+        "cambia le dimensioni in pixel",
+        "cambia idea",
+        "cambia canale",
+        "cambia casa"
+      ],
+      "answer": 0,
+      "explanation": "Ridimensionare cambia larghezza e altezza in pixel; l’eventuale ricampionamento modifica la griglia dell’immagine.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 486 (PDF p. 502)",
+      "bookPage": 486,
+      "pdfPage": 502,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q20",
+      "q": "Il ritaglio (crop)…",
+      "options": [
+        "seleziona una porzione dell'immagine",
+        "potatura piante",
+        "taglio capelli",
+        "cucito"
+      ],
+      "answer": 0,
+      "explanation": "Il ritaglio conserva una porzione dell’immagine ed elimina le parti esterne alla selezione.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 481 (PDF p. 497)",
+      "bookPage": 481,
+      "pdfPage": 497,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q21",
+      "q": "La rotazione…",
+      "options": [
+        "raddrizza l'orizzonte storto",
+        "fa girare la testa",
+        "un balletto",
+        "una giostra"
+      ],
+      "answer": 0,
+      "explanation": "La rotazione cambia l’orientamento e può correggere un orizzonte inclinato.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 485 (PDF p. 501)",
+      "bookPage": 485,
+      "pdfPage": 501,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q22",
+      "q": "Luminosità e contrasto sono…",
+      "options": [
+        "correzioni base dell'immagine",
+        "gusti di gelato",
+        "colori di auto",
+        "taglie"
+      ],
+      "answer": 0,
+      "explanation": "Luminosità e contrasto intervengono sulla resa dei toni dell’immagine.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 485 (PDF p. 501)",
+      "bookPage": 485,
+      "pdfPage": 501,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q23",
+      "q": "I livelli…",
+      "options": [
+        "sovrappongono gli elementi",
+        "piani di un palazzo",
+        "ripiani",
+        "livelle"
+      ],
+      "answer": 0,
+      "explanation": "I livelli permettono di organizzare elementi sovrapposti e modificarli separatamente.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 479 (PDF p. 495)",
+      "bookPage": 479,
+      "pdfPage": 495,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q24",
+      "q": "Il testo sulle immagini crea…",
+      "options": [
+        "titoli e didascalie",
+        "confusione sempre",
+        "errori",
+        "virus"
+      ],
+      "answer": 0,
+      "explanation": "Un elemento testuale può essere collocato su un livello per gestirlo separatamente dall’immagine.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 479 (PDF p. 495)",
+      "bookPage": 479,
+      "pdfPage": 495,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q25",
+      "q": "Pianificare la sequenza delle scene prima del montaggio aiuta a…",
+      "options": [
+        "dare coerenza al messaggio del video",
+        "aumentare obbligatoriamente la durata",
+        "eliminare la necessità di riprese",
+        "sostituire ogni file audio"
+      ],
+      "answer": 0,
+      "explanation": "La pianificazione delle scene definisce una sequenza coerente prima del montaggio.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 503 (PDF p. 519)",
+      "bookPage": 503,
+      "pdfPage": 519,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q26",
+      "q": "Il taglio…",
+      "options": [
+        "elimina parti indesiderate",
+        "ferisce",
+        "cucina",
+        "cuce"
+      ],
+      "answer": 0,
+      "explanation": "Tagliare una clip permette di eliminare parti non necessarie e regolarne la durata.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 516 (PDF p. 532)",
+      "bookPage": 516,
+      "pdfPage": 532,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q27",
+      "q": "Le transizioni sono…",
+      "options": [
+        "passaggi animati tra scene",
+        "traslochi",
+        "viaggi",
+        "passaggi a livello"
+      ],
+      "answer": 0,
+      "explanation": "Le transizioni regolano il passaggio tra clip; vanno scelte in relazione al ritmo e al messaggio.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 516 (PDF p. 532)",
+      "bookPage": 516,
+      "pdfPage": 532,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q28",
+      "q": "Titoli di testa e coda sono…",
+      "options": [
+        "apertura e chiusura del video",
+        "cappelli",
+        "code di animali",
+        "titoli di giornale"
+      ],
+      "answer": 0,
+      "explanation": "Titoli iniziali e finali possono presentare il contenuto e indicare contributi e riconoscimenti.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 502 (PDF p. 518)",
+      "bookPage": 502,
+      "pdfPage": 518,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q29",
+      "q": "L'esportazione produce…",
+      "options": [
+        "il file finale da condividere",
+        "un documento cartaceo",
+        "niente",
+        "un errore"
+      ],
+      "answer": 0,
+      "explanation": "L’esportazione produce un file multimediale fruibile, distinto dal progetto modificabile nell’editor.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 522 (PDF p. 538)",
+      "bookPage": 522,
+      "pdfPage": 538,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q30",
+      "q": "Il 16:9 è…",
+      "options": [
+        "il formato panoramico",
+        "un voto",
+        "una data",
+        "un'ora"
+      ],
+      "answer": 0,
+      "explanation": "16:9 esprime il rapporto tra larghezza e altezza; non è un numero di pixel.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 475 (PDF p. 491)",
+      "bookPage": 475,
+      "pdfPage": 491,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q31",
+      "q": "Bilanciare l'audio significa…",
+      "options": [
+        "equilibrare voci, musica ed effetti",
+        "pesare le casse",
+        "comprare cuffie",
+        "alzare tutto al massimo"
+      ],
+      "answer": 0,
+      "explanation": "Il bilanciamento audio mantiene comprensibile la voce rispetto a musica ed effetti.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 521 (PDF p. 537)",
+      "bookPage": 521,
+      "pdfPage": 537,
+      "type": "multiple"
+    },
+    {
+      "id": "b4-q32",
+      "q": "Il PNG supporta la trasparenza.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La trasparenza permette di comporre un elemento PNG sopra sfondi diversi.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 486 (PDF p. 502)",
+      "bookPage": 486,
+      "pdfPage": 502,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q33",
+      "q": "L'MP3 è audio compresso.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "MP3 usa compressione audio con perdita di informazioni per ridurre i dati.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 469 (PDF p. 485)",
+      "bookPage": 469,
+      "pdfPage": 485,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q34",
+      "q": "A parità di durata, un WAV PCM non compresso è sempre più piccolo di un MP3 equivalente.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "A parità di durata e caratteristiche, un WAV PCM non compresso occupa in genere più spazio di un MP3 compresso.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 469 (PDF p. 485)",
+      "bookPage": 469,
+      "pdfPage": 485,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q35",
+      "q": "Il crop allarga l'immagine.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il crop rimuove le porzioni esterne all’area scelta; non ingrandisce il contenuto per definizione.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 481 (PDF p. 497)",
+      "bookPage": 481,
+      "pdfPage": 497,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q36",
+      "q": "I livelli sovrappongono elementi.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "I livelli sono elementi sovrapposti che permettono un controllo separato delle parti della composizione.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 479 (PDF p. 495)",
+      "bookPage": 479,
+      "pdfPage": 495,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q37",
+      "q": "Pianificare le scene aiuta a costruire una sequenza coerente.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Pianificare le scene aiuta a mantenere coerenza tra messaggio, inquadrature e montaggio.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 503 (PDF p. 519)",
+      "bookPage": 503,
+      "pdfPage": 519,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q38",
+      "q": "Il 16:9 è panoramico.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un’immagine 16:9 ha larghezza superiore all’altezza: è un rapporto panoramico.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 475 (PDF p. 491)",
+      "bookPage": 475,
+      "pdfPage": 491,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q39",
+      "q": "Il testo nelle immagini non serve mai.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Titoli e didascalie possono fornire contesto e spiegazioni utili allo spettatore.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 502 (PDF p. 518)",
+      "bookPage": 502,
+      "pdfPage": 518,
+      "type": "truefalse"
+    },
+    {
+      "id": "b4-q40",
+      "q": "Le transizioni collegano le scene.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Una transizione collega due clip; non è necessariamente richiesta a ogni taglio.",
+      "topic": "Immagini, audio e video",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 516 (PDF p. 532)",
+      "bookPage": 516,
+      "pdfPage": 532,
+      "type": "truefalse"
+    }
+  ]
+}

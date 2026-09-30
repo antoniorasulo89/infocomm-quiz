@@ -1,0 +1,707 @@
+{
+  "id": "b3",
+  "title": "Excel per l’azienda",
+  "description": "Funzioni, analisi dei dati, modelli protetti e applicazioni commerciali.",
+  "book_pages": [
+    408,
+    465
+  ],
+  "questions": [
+    {
+      "id": "b3-q01",
+      "q": "Excel in azienda serve soprattutto a…",
+      "options": [
+        "gestire e analizzare dati contabili e commerciali",
+        "montare film",
+        "navigare anonimi",
+        "disegnare fumetti"
+      ],
+      "answer": 0,
+      "explanation": "Il foglio di calcolo permette di organizzare dati e applicare formule per analisi e documenti aziendali.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q02",
+      "q": "Filtri e subtotali in Excel permettono di…",
+      "options": [
+        "selezionare e riepilogare sottoinsiemi di dati",
+        "cancellare tutto",
+        "formattare il PC",
+        "creare virus"
+      ],
+      "answer": 0,
+      "explanation": "I filtri selezionano le righe da visualizzare; i subtotali riepilogano gruppi di dati.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 421 (PDF p. 437)",
+      "bookPage": 421,
+      "pdfPage": 437,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q03",
+      "q": "La formattazione condizionale…",
+      "options": [
+        "evidenzia celle in base a regole (es. valori fuori soglia)",
+        "cancella i dati",
+        "spegne il PC",
+        "stampa da sola"
+      ],
+      "answer": 0,
+      "explanation": "La formattazione condizionale applica uno stile quando è verificata una regola, senza cambiare il valore della cella.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 425 (PDF p. 441)",
+      "bookPage": 425,
+      "pdfPage": 441,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q04",
+      "q": "Funzioni come SOMMA.SE e CONTA.SE servono a…",
+      "options": [
+        "sommare/contare solo celle che rispettano criteri",
+        "contare i fogli stampati",
+        "misurare lo schermo",
+        "niente"
+      ],
+      "answer": 0,
+      "explanation": "SOMMA.SE somma valori in base a un criterio; CONTA.SE conta quelli che lo soddisfano.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 411 (PDF p. 427)",
+      "bookPage": 411,
+      "pdfPage": 427,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q05",
+      "q": "I modelli Excel protetti…",
+      "options": [
+        "guidano l'inserimento ed evitano modifiche accidentali",
+        "sono inutili",
+        "non si salvano",
+        "sono virus"
+      ],
+      "answer": 0,
+      "explanation": "Un modello protetto guida l’inserimento e limita modifiche involontarie alle celle di calcolo.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 438 (PDF p. 454)",
+      "bookPage": 438,
+      "pdfPage": 454,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q06",
+      "q": "Un intervallo tipo B2:B2202 indica…",
+      "options": [
+        "le celle dalla riga 2 alla 2202 della colonna B",
+        "una sola cella",
+        "un grafico",
+        "una password"
+      ],
+      "answer": 0,
+      "explanation": "I due punti definiscono un intervallo: B2:B2202 comprende la colonna B dalla riga 2 alla riga 2202.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q07",
+      "q": "Applicazioni di marketing in Excel includono…",
+      "options": [
+        "analisi vendite, campagne ed expo con tabelle e grafici",
+        "solo disegni a mano",
+        "niente dati",
+        "solo testo libero"
+      ],
+      "answer": 0,
+      "explanation": "Le tabelle aiutano a pianificare costi, attività e risultati di iniziative commerciali e promozionali.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 450 (PDF p. 466)",
+      "bookPage": 450,
+      "pdfPage": 466,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q08",
+      "q": "I filtri mostrano solo le righe che soddisfano i criteri scelti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il filtro cambia le righe visualizzate, non cancella quelle escluse dalla vista.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 423 (PDF p. 439)",
+      "bookPage": 423,
+      "pdfPage": 439,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q09",
+      "q": "La protezione dei fogli impedisce modifiche alle celle bloccate.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La protezione del foglio fa rispettare il blocco delle celle secondo le autorizzazioni impostate.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 436 (PDF p. 452)",
+      "bookPage": 436,
+      "pdfPage": 452,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q10",
+      "q": "CONTA.SE conta tutte le celle senza alcun criterio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "CONTA.SE applica un criterio; non equivale al conteggio indiscriminato di tutte le celle.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 411 (PDF p. 427)",
+      "bookPage": 411,
+      "pdfPage": 427,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q11",
+      "q": "La cella è…",
+      "options": [
+        "l'incrocio di riga e colonna",
+        "un insetto",
+        "una prigione",
+        "una batteria"
+      ],
+      "answer": 0,
+      "explanation": "Ogni cella è individuata dall’incrocio tra una riga e una colonna.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 420 (PDF p. 436)",
+      "bookPage": 420,
+      "pdfPage": 436,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q12",
+      "q": "L'indirizzo A1 indica…",
+      "options": [
+        "colonna A, riga 1",
+        "il primo voto",
+        "un'autostrada",
+        "una vitamina"
+      ],
+      "answer": 0,
+      "explanation": "A1 identifica la colonna A e la riga 1, non l’intera colonna o il foglio.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 420 (PDF p. 436)",
+      "bookPage": 420,
+      "pdfPage": 436,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q13",
+      "q": "La barra della formula…",
+      "options": [
+        "mostra e modifica il contenuto",
+        "una sbarra di ferro",
+        "un dolce",
+        "un gioco"
+      ],
+      "answer": 0,
+      "explanation": "La barra della formula permette di leggere e modificare il contenuto della cella attiva.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 432 (PDF p. 448)",
+      "bookPage": 432,
+      "pdfPage": 448,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q14",
+      "q": "I fogli di lavoro sono…",
+      "options": [
+        "le pagine della cartella",
+        "fogli di carta",
+        "lenzuola",
+        "tovaglie"
+      ],
+      "answer": 0,
+      "explanation": "Una cartella di lavoro può contenere più fogli, ciascuno con la propria griglia di celle.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 432 (PDF p. 448)",
+      "bookPage": 432,
+      "pdfPage": 448,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q15",
+      "q": "SOMMA…",
+      "options": [
+        "somma un intervallo di celle",
+        "sottrae",
+        "moltiplica",
+        "divide"
+      ],
+      "answer": 0,
+      "explanation": "SOMMA aggiunge i valori numerici dell’intervallo indicato.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q16",
+      "q": "MEDIA calcola…",
+      "options": [
+        "la media aritmetica",
+        "la somma",
+        "il massimo",
+        "il minimo"
+      ],
+      "answer": 0,
+      "explanation": "La media aritmetica è la somma dei valori divisa per il loro numero.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 414 (PDF p. 430)",
+      "bookPage": 414,
+      "pdfPage": 430,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q17",
+      "q": "MAX/MIN trovano…",
+      "options": [
+        "il valore maggiore/minore",
+        "la media",
+        "la somma",
+        "il conteggio"
+      ],
+      "answer": 0,
+      "explanation": "Il massimo e il minimo sono valori estremi; non corrispondono alla media o alla somma.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 414 (PDF p. 430)",
+      "bookPage": 414,
+      "pdfPage": 430,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q18",
+      "q": "CONTA.NUMERI…",
+      "options": [
+        "conta le celle numeriche",
+        "conta tutto",
+        "conta niente",
+        "conta i fogli"
+      ],
+      "answer": 0,
+      "explanation": "Il conteggio numerico considera le celle contenenti numeri, distinguendole da testo e celle vuote.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 411 (PDF p. 427)",
+      "bookPage": 411,
+      "pdfPage": 427,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q19",
+      "q": "SE…",
+      "options": [
+        "restituisce esiti diversi per condizione",
+        "saluta",
+        "dorme",
+        "corre"
+      ],
+      "answer": 0,
+      "explanation": "SE valuta una condizione e sceglie tra due esiti in base al risultato logico.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q20",
+      "q": "E/O…",
+      "options": [
+        "combinano più condizioni",
+        "congiunzioni inutili",
+        "errori",
+        "virus"
+      ],
+      "answer": 0,
+      "explanation": "E richiede che tutte le condizioni siano vere; O richiede che almeno una sia vera.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 411 (PDF p. 427)",
+      "bookPage": 411,
+      "pdfPage": 427,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q21",
+      "q": "SOMMA.SE permette di…",
+      "options": [
+        "sommare valori che rispettano un criterio",
+        "ordinare tutte le righe in ordine alfabetico",
+        "cambiare il colore di ogni cella",
+        "contare soltanto il numero dei fogli"
+      ],
+      "answer": 0,
+      "explanation": "SOMMA.SE seleziona i valori che rispettano il criterio e ne calcola la somma.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q22",
+      "q": "Il riferimento relativo A1…",
+      "options": [
+        "si adatta copiando la formula",
+        "non cambia mai",
+        "si rompe",
+        "scompare"
+      ],
+      "answer": 0,
+      "explanation": "Un riferimento relativo si sposta in relazione allo spostamento della formula copiata.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q23",
+      "q": "Il $ nei riferimenti…",
+      "options": [
+        "blocca riga/colonna nella copia",
+        "indica dollari",
+        "è decorativo",
+        "un errore"
+      ],
+      "answer": 0,
+      "explanation": "Il simbolo dollaro blocca la componente di riga o colonna che precede: $A$1 blocca entrambe.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q24",
+      "q": "L'ordinamento…",
+      "options": [
+        "riordina le righe per colonna",
+        "mette in disordine",
+        "cancella",
+        "nasconde tutto"
+      ],
+      "answer": 0,
+      "explanation": "L’ordinamento dispone i record secondo uno o più criteri mantenendo insieme i dati della stessa riga.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 421 (PDF p. 437)",
+      "bookPage": 421,
+      "pdfPage": 437,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q25",
+      "q": "I duplicati…",
+      "options": [
+        "si individuano e rimuovono",
+        "si moltiplicano",
+        "si nascondono",
+        "si celebrano"
+      ],
+      "answer": 0,
+      "explanation": "I duplicati devono essere valutati sul contenuto e sul significato dei record, prima dell’eventuale rimozione.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 420 (PDF p. 436)",
+      "bookPage": 420,
+      "pdfPage": 436,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q26",
+      "q": "Il formato data mostra…",
+      "options": [
+        "giorni, mesi e anni",
+        "solo ore",
+        "solo minuti",
+        "frazioni"
+      ],
+      "answer": 0,
+      "explanation": "Il formato determina come il valore viene visualizzato; un formato data rappresenta una data secondo la notazione scelta.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 424 (PDF p. 440)",
+      "bookPage": 424,
+      "pdfPage": 440,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q27",
+      "q": "Il formato percentuale mostra…",
+      "options": [
+        "valori per cento",
+        "soldi",
+        "gradi",
+        "litri"
+      ],
+      "answer": 0,
+      "explanation": "Un valore pari a 0,25, visualizzato in percentuale, corrisponde al 25%.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 424 (PDF p. 440)",
+      "bookPage": 424,
+      "pdfPage": 440,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q28",
+      "q": "Bordi e sfondi migliorano…",
+      "options": [
+        "la leggibilità delle tabelle",
+        "il sapore",
+        "il profumo",
+        "il suono"
+      ],
+      "answer": 0,
+      "explanation": "Bordi e sfondi possono rendere riconoscibili intestazioni e gruppi di dati, migliorando la lettura.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 424 (PDF p. 440)",
+      "bookPage": 424,
+      "pdfPage": 440,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q29",
+      "q": "Blocca riquadri tiene…",
+      "options": [
+        "le intestazioni sempre visibili",
+        "il PC acceso",
+        "la porta chiusa",
+        "il cane legato"
+      ],
+      "answer": 0,
+      "explanation": "Bloccare i riquadri mantiene visibili determinate righe o colonne durante lo scorrimento.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 432 (PDF p. 448)",
+      "bookPage": 432,
+      "pdfPage": 448,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q30",
+      "q": "In stampa si impostano…",
+      "options": [
+        "area di stampa e righe da ripetere",
+        "il volume",
+        "la luminosità",
+        "il canale"
+      ],
+      "answer": 0,
+      "explanation": "L’area di stampa e la ripetizione delle intestazioni aiutano a rendere leggibili le pagine stampate.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 432 (PDF p. 448)",
+      "bookPage": 432,
+      "pdfPage": 448,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q31",
+      "q": "Proteggere il foglio con password…",
+      "options": [
+        "evita modifiche accidentali",
+        "lo nasconde per sempre",
+        "lo cancella",
+        "lo rende illeggibile"
+      ],
+      "answer": 0,
+      "explanation": "La protezione del foglio limita le modifiche delle celle; non equivale alla cifratura del file.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 436 (PDF p. 452)",
+      "bookPage": 436,
+      "pdfPage": 452,
+      "type": "multiple"
+    },
+    {
+      "id": "b3-q32",
+      "q": "Il segno = viene usato per introdurre una formula in Excel.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il segno uguale introduce normalmente una formula nel foglio di calcolo.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q33",
+      "q": "SOMMA funziona anche con celle vuote.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "SOMMA ignora le celle vuote nell’intervallo: non occorre riempirle tutte con zero.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q34",
+      "q": "Il riferimento $A$1 cambia copiando.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il riferimento assoluto $A$1 mantiene fissa riga e colonna durante la copia ordinaria della formula.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q35",
+      "q": "L'ordinamento riordina le righe.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Ordinare significa cambiare la disposizione dei record rispetto al criterio scelto.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 421 (PDF p. 437)",
+      "bookPage": 421,
+      "pdfPage": 437,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q36",
+      "q": "La formattazione cambia i valori.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La formattazione cambia la visualizzazione, non il valore memorizzato.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 424 (PDF p. 440)",
+      "bookPage": 424,
+      "pdfPage": 440,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q37",
+      "q": "SE dà esiti diversi per condizione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "SE restituisce l’esito associato a vero oppure a falso per la condizione impostata.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 408 (PDF p. 424)",
+      "bookPage": 408,
+      "pdfPage": 424,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q38",
+      "q": "I grafici si aggiornano al variare dei dati.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un grafico collegato a un intervallo riflette le modifiche ai dati di quell’intervallo.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 459 (PDF p. 475)",
+      "bookPage": 459,
+      "pdfPage": 475,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q39",
+      "q": "La protezione blocca le celle protette.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il blocco delle celle ha effetto quando la protezione del foglio è attiva.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 436 (PDF p. 452)",
+      "bookPage": 436,
+      "pdfPage": 452,
+      "type": "truefalse"
+    },
+    {
+      "id": "b3-q40",
+      "q": "MEDIA calcola la somma totale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "MEDIA restituisce una media, mentre SOMMA restituisce il totale.",
+      "topic": "Excel per l’azienda",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 414 (PDF p. 430)",
+      "bookPage": 414,
+      "pdfPage": 430,
+      "type": "truefalse"
+    }
+  ]
+}

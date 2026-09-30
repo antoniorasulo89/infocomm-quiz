@@ -1,0 +1,1 @@
+InfoComm v2: banco domande locale, 400 quesiti; test riproducibili su seme condiviso. Layout verde scuro e carta chiara, illustrazione CSS senza asset esterni. Playwright verifica i flussi dopo networkidle. Testare la scadenza anche quando la prova è salvata fuori dalla schermata quiz.

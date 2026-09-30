@@ -1,0 +1,691 @@
+{
+  "id": "a1",
+  "title": "Azienda e sistemi informativi",
+  "description": "Dalle funzioni aziendali ai flussi di informazioni e ai sistemi ERP.",
+  "book_pages": [
+    2,
+    49
+  ],
+  "questions": [
+    {
+      "id": "a1-q01",
+      "q": "Quale attività descrive un’azienda commerciale?",
+      "options": [
+        "Acquistare merci e rivenderle",
+        "Trasformare materie prime in semilavorati",
+        "Fornire esclusivamente consulenza",
+        "Amministrare servizi pubblici senza vendite"
+      ],
+      "answer": 0,
+      "explanation": "Le aziende commerciali svolgono attività di scambio: acquistano e rivendono beni senza la tipica trasformazione industriale.",
+      "topic": "Azienda e gestione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 7 (PDF p. 23)",
+      "bookPage": 7,
+      "pdfPage": 23,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q02",
+      "q": "Un’impresa che acquista prodotti finiti per rivenderli svolge attività commerciale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le aziende commerciali svolgono attività di scambio: acquistano e rivendono beni senza la tipica trasformazione industriale.",
+      "topic": "Azienda e gestione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 7 (PDF p. 23)",
+      "bookPage": 7,
+      "pdfPage": 23,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q03",
+      "q": "Un’impresa riceve materie prime e le trasforma in prodotti finiti. Quale sistema è coinvolto?",
+      "options": [
+        "Il sistema produttivo",
+        "Il sistema di comunicazione esterna",
+        "Il solo sistema di tesoreria",
+        "Il sistema di reclutamento"
+      ],
+      "answer": 0,
+      "explanation": "Il sistema produttivo organizza le risorse necessarie alla trasformazione dei materiali e alla produzione dei beni.",
+      "topic": "Azienda e gestione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 10 (PDF p. 26)",
+      "bookPage": 10,
+      "pdfPage": 26,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q04",
+      "q": "La trasformazione industriale può comprendere anche l’assemblaggio di componenti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il sistema produttivo organizza le risorse necessarie alla trasformazione dei materiali e alla produzione dei beni.",
+      "topic": "Azienda e gestione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 10 (PDF p. 26)",
+      "bookPage": 10,
+      "pdfPage": 26,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q05",
+      "q": "Quale elemento distingue la gestione finanziaria?",
+      "options": [
+        "Entrate, uscite e fabbisogno di denaro",
+        "Qualità tecnica del prodotto",
+        "Scelta dei canali pubblicitari",
+        "Formazione del personale"
+      ],
+      "answer": 0,
+      "explanation": "L’aspetto finanziario riguarda i movimenti monetari e le risorse finanziarie necessarie alla gestione.",
+      "topic": "Azienda e gestione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 9 (PDF p. 25)",
+      "bookPage": 9,
+      "pdfPage": 25,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q06",
+      "q": "Verificare la disponibilità di denaro per pagare i fornitori riguarda l’aspetto finanziario.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "L’aspetto finanziario riguarda i movimenti monetari e le risorse finanziarie necessarie alla gestione.",
+      "topic": "Azienda e gestione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 9 (PDF p. 25)",
+      "bookPage": 9,
+      "pdfPage": 25,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q07",
+      "q": "Perché l’azienda è un sistema aperto?",
+      "options": [
+        "Scambia risorse e informazioni con l’ambiente esterno",
+        "Non ha confini organizzativi",
+        "Non richiede coordinamento interno",
+        "Utilizza soltanto dati pubblici"
+      ],
+      "answer": 0,
+      "explanation": "L’azienda interagisce con clienti, fornitori, istituzioni e altri soggetti; non opera isolata dal contesto economico.",
+      "topic": "Azienda e gestione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 5 (PDF p. 21)",
+      "bookPage": 5,
+      "pdfPage": 21,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q08",
+      "q": "Un’azienda può essere analizzata senza considerare i suoi rapporti con clienti e fornitori.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "L’azienda interagisce con clienti, fornitori, istituzioni e altri soggetti; non opera isolata dal contesto economico.",
+      "topic": "Azienda e gestione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 5 (PDF p. 21)",
+      "bookPage": 5,
+      "pdfPage": 21,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q09",
+      "q": "Nel contesto del libro, a cosa serve il codice ATECO?",
+      "options": [
+        "Classificare le attività economiche",
+        "Identificare la singola fattura",
+        "Assegnare il numero di protocollo",
+        "Classificare i soli sistemi operativi"
+      ],
+      "answer": 0,
+      "explanation": "ATECO è una classificazione delle attività economiche. Il codice descrive il tipo di attività e non la singola operazione commerciale.",
+      "topic": "Azienda e gestione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 11 (PDF p. 27)",
+      "bookPage": 11,
+      "pdfPage": 27,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q10",
+      "q": "Il codice ATECO identifica il numero progressivo di una vendita.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "ATECO è una classificazione delle attività economiche. Il codice descrive il tipo di attività e non la singola operazione commerciale.",
+      "topic": "Azienda e gestione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 11 (PDF p. 27)",
+      "bookPage": 11,
+      "pdfPage": 27,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q11",
+      "q": "La direzione stabilisce obiettivi e risorse per il prossimo anno. Quale attività svolge?",
+      "options": [
+        "Pianificazione",
+        "Registrazione di una fattura",
+        "Inventario fisico",
+        "Manutenzione del software"
+      ],
+      "answer": 0,
+      "explanation": "La pianificazione orienta le attività future: definisce obiettivi, decisioni e impiego delle risorse.",
+      "topic": "Azienda e gestione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 15 (PDF p. 31)",
+      "bookPage": 15,
+      "pdfPage": 31,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q12",
+      "q": "Definire in anticipo gli obiettivi è una fase della pianificazione aziendale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La pianificazione orienta le attività future: definisce obiettivi, decisioni e impiego delle risorse.",
+      "topic": "Azienda e gestione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 15 (PDF p. 31)",
+      "bookPage": 15,
+      "pdfPage": 31,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q13",
+      "q": "Quando un dato diventa un’informazione utile?",
+      "options": [
+        "Quando è interpretato nel contesto di una decisione",
+        "Quando occupa più spazio in memoria",
+        "Quando viene duplicato",
+        "Quando è scritto necessariamente su carta"
+      ],
+      "answer": 0,
+      "explanation": "Un dato acquisisce significato quando viene organizzato e interpretato in un contesto; può così sostenere una decisione.",
+      "topic": "Informazioni e processi",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 19 (PDF p. 35)",
+      "bookPage": 19,
+      "pdfPage": 35,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q14",
+      "q": "Il numero di vendite, confrontato con un obiettivo, può diventare un’informazione per la direzione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un dato acquisisce significato quando viene organizzato e interpretato in un contesto; può così sostenere una decisione.",
+      "topic": "Informazioni e processi",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 19 (PDF p. 35)",
+      "bookPage": 19,
+      "pdfPage": 35,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q15",
+      "q": "Quale descrizione rappresenta il sistema informativo aziendale?",
+      "options": [
+        "Persone, dati, procedure e strumenti che gestiscono informazioni",
+        "Solo la rete Wi-Fi dell’ufficio",
+        "Solo i programmi installati",
+        "Solo il reparto acquisti"
+      ],
+      "answer": 0,
+      "explanation": "Il sistema informativo comprende componenti umane, organizzative e tecniche che producono e distribuiscono informazioni.",
+      "topic": "Informazioni e processi",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 17 (PDF p. 33)",
+      "bookPage": 17,
+      "pdfPage": 33,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q16",
+      "q": "Il sistema informativo coincide con l’elenco dei computer dell’azienda.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il sistema informativo comprende componenti umane, organizzative e tecniche che producono e distribuiscono informazioni.",
+      "topic": "Informazioni e processi",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 17 (PDF p. 33)",
+      "bookPage": 17,
+      "pdfPage": 33,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q17",
+      "q": "Qual è il rapporto tra sistema informatico e sistema informativo?",
+      "options": [
+        "Il sistema informatico ne costituisce la componente automatizzata",
+        "Il sistema informativo è un componente della tastiera",
+        "Sono sinonimi in ogni contesto",
+        "Il sistema informatico comprende solo procedure manuali"
+      ],
+      "answer": 0,
+      "explanation": "Il sistema informatico usa hardware e software per automatizzare parte delle attività del sistema informativo, che è più ampio.",
+      "topic": "Informazioni e processi",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 22 (PDF p. 38)",
+      "bookPage": 22,
+      "pdfPage": 38,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q18",
+      "q": "Un archivio cartaceo e le procedure manuali possono far parte del sistema informativo.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il sistema informatico usa hardware e software per automatizzare parte delle attività del sistema informativo, che è più ampio.",
+      "topic": "Informazioni e processi",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 22 (PDF p. 38)",
+      "bookPage": 22,
+      "pdfPage": 38,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q19",
+      "q": "Un responsabile riceve il dato sulle scorte dopo aver ordinato nuova merce. Quale qualità è mancata?",
+      "options": [
+        "Tempestività",
+        "Ridondanza",
+        "Dimensione del file",
+        "Varietà dei caratteri"
+      ],
+      "answer": 0,
+      "explanation": "Un’informazione deve arrivare in tempo per la decisione a cui serve. Un dato corretto ma tardivo può perdere utilità.",
+      "topic": "Informazioni e processi",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 19 (PDF p. 35)",
+      "bookPage": 19,
+      "pdfPage": 35,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q20",
+      "q": "Un’informazione corretta è sempre utile, anche se arriva dopo la decisione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Un’informazione deve arrivare in tempo per la decisione a cui serve. Un dato corretto ma tardivo può perdere utilità.",
+      "topic": "Informazioni e processi",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 19 (PDF p. 35)",
+      "bookPage": 19,
+      "pdfPage": 35,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q21",
+      "q": "Un ordine passa dal commerciale al magazzino e all’amministrazione. Che cosa descrive questo passaggio?",
+      "options": [
+        "Un flusso informativo",
+        "Una classificazione ATECO",
+        "Un guasto del sistema",
+        "Una sola operazione di produzione"
+      ],
+      "answer": 0,
+      "explanation": "I flussi informativi collegano attività e reparti, facendo circolare le informazioni necessarie al lavoro.",
+      "topic": "Informazioni e processi",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 20 (PDF p. 36)",
+      "bookPage": 20,
+      "pdfPage": 36,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q22",
+      "q": "Un flusso informativo può collegare reparti diversi dell’azienda.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "I flussi informativi collegano attività e reparti, facendo circolare le informazioni necessarie al lavoro.",
+      "topic": "Informazioni e processi",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 20 (PDF p. 36)",
+      "bookPage": 20,
+      "pdfPage": 36,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q23",
+      "q": "Quale esempio rappresenta un processo aziendale?",
+      "options": [
+        "Ricevere, preparare e spedire un ordine",
+        "Il nome di un singolo cliente",
+        "La quantità di memoria di un PC",
+        "Un codice di prodotto isolato"
+      ],
+      "answer": 0,
+      "explanation": "Un processo è una sequenza coordinata di attività che usa risorse e produce un risultato.",
+      "topic": "Informazioni e processi",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 16 (PDF p. 32)",
+      "bookPage": 16,
+      "pdfPage": 32,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q24",
+      "q": "Un processo aziendale è sempre costituito da un’attività isolata senza collegamenti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Un processo è una sequenza coordinata di attività che usa risorse e produce un risultato.",
+      "topic": "Informazioni e processi",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 16 (PDF p. 32)",
+      "bookPage": 16,
+      "pdfPage": 32,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q25",
+      "q": "Qual è un obiettivo centrale di un ERP?",
+      "options": [
+        "Integrare la gestione dei processi aziendali",
+        "Isolare i dati di ogni reparto",
+        "Sostituire ogni decisione umana",
+        "Gestire soltanto la posta elettronica"
+      ],
+      "answer": 0,
+      "explanation": "Un ERP integra le principali aree gestionali, favorendo la condivisione e la coerenza delle informazioni.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 31 (PDF p. 47)",
+      "bookPage": 31,
+      "pdfPage": 47,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q26",
+      "q": "Un ERP collega processi come vendite, acquisti, magazzino e contabilità.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un ERP integra le principali aree gestionali, favorendo la condivisione e la coerenza delle informazioni.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 31 (PDF p. 47)",
+      "bookPage": 31,
+      "pdfPage": 47,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q27",
+      "q": "Due reparti registrano indirizzi diversi per lo stesso cliente. Quale caratteristica ERP aiuta a prevenire il problema?",
+      "options": [
+        "Unicità della base dati",
+        "Duplicazione dei file locali",
+        "Riduzione dei controlli",
+        "Separazione completa dei reparti"
+      ],
+      "answer": 0,
+      "explanation": "Una base dati condivisa limita duplicazioni e incongruenze: i reparti fanno riferimento a informazioni comuni.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 34 (PDF p. 50)",
+      "bookPage": 34,
+      "pdfPage": 50,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q28",
+      "q": "Tenere copie indipendenti della stessa anagrafica garantisce automaticamente dati coerenti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Una base dati condivisa limita duplicazioni e incongruenze: i reparti fanno riferimento a informazioni comuni.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 34 (PDF p. 50)",
+      "bookPage": 34,
+      "pdfPage": 50,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q29",
+      "q": "Che cosa significa modularità di un ERP?",
+      "options": [
+        "Poter adottare componenti per diverse aree gestionali",
+        "Poter usare una sola funzione fissa",
+        "Separare obbligatoriamente tutte le banche dati",
+        "Eliminare le procedure aziendali"
+      ],
+      "answer": 0,
+      "explanation": "La modularità permette di introdurre componenti funzionali e ampliare il sistema secondo le necessità.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 35 (PDF p. 51)",
+      "bookPage": 35,
+      "pdfPage": 51,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q30",
+      "q": "La modularità può consentire un’introduzione progressiva delle funzioni ERP.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La modularità permette di introdurre componenti funzionali e ampliare il sistema secondo le necessità.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 35 (PDF p. 51)",
+      "bookPage": 35,
+      "pdfPage": 51,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q31",
+      "q": "Un’impresa adatta parametri e regole di un ERP alle proprie esigenze. Quale proprietà sfrutta?",
+      "options": [
+        "Configurabilità",
+        "Interlacciamento",
+        "Cifratura asimmetrica",
+        "Risoluzione grafica"
+      ],
+      "answer": 0,
+      "explanation": "Un ERP configurabile può essere adattato a caratteristiche e processi dell’organizzazione tramite impostazioni e parametri.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 34 (PDF p. 50)",
+      "bookPage": 34,
+      "pdfPage": 50,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q32",
+      "q": "Configurare un ERP significa necessariamente riscriverne tutto il codice.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Un ERP configurabile può essere adattato a caratteristiche e processi dell’organizzazione tramite impostazioni e parametri.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 34 (PDF p. 50)",
+      "bookPage": 34,
+      "pdfPage": 50,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q33",
+      "q": "Quale risultato è atteso dall’integrazione tra vendite e magazzino?",
+      "options": [
+        "Aggiornare le disponibilità quando si registra una vendita",
+        "Duplicare manualmente tutte le registrazioni",
+        "Nascondere i movimenti all’amministrazione",
+        "Evitare ogni controllo sulle scorte"
+      ],
+      "answer": 0,
+      "explanation": "L’integrazione collega le attività: un’operazione registrata può alimentare automaticamente altre aree del sistema.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 35 (PDF p. 51)",
+      "bookPage": 35,
+      "pdfPage": 51,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q34",
+      "q": "In un sistema integrato, una vendita può produrre effetti anche sulla gestione delle scorte.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "L’integrazione collega le attività: un’operazione registrata può alimentare automaticamente altre aree del sistema.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 35 (PDF p. 51)",
+      "bookPage": 35,
+      "pdfPage": 51,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q35",
+      "q": "Che cosa indica il Business Process Redesign nel passaggio a un sistema integrato?",
+      "options": [
+        "Riprogettare i processi aziendali",
+        "Cambiare soltanto il logo",
+        "Acquistare più monitor senza analizzare il lavoro",
+        "Duplicare l’organigramma esistente"
+      ],
+      "answer": 0,
+      "explanation": "Il BPR riguarda la revisione dei processi, non il solo acquisto di tecnologia: l’organizzazione deve essere coerente con il nuovo sistema.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 41 (PDF p. 57)",
+      "bookPage": 41,
+      "pdfPage": 57,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q36",
+      "q": "Adottare un ERP non richiede mai di esaminare i processi di lavoro.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il BPR riguarda la revisione dei processi, non il solo acquisto di tecnologia: l’organizzazione deve essere coerente con il nuovo sistema.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 41 (PDF p. 57)",
+      "bookPage": 41,
+      "pdfPage": 57,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q37",
+      "q": "Quale scelta favorisce l’adozione di un ERP?",
+      "options": [
+        "Coinvolgere gli utenti e formarli sulle nuove procedure",
+        "Installare il software senza spiegazioni",
+        "Eliminare la verifica dei dati iniziali",
+        "Cambiare tutte le procedure senza pianificazione"
+      ],
+      "answer": 0,
+      "explanation": "Il passaggio a un ERP richiede gestione organizzativa, formazione e attenzione ai dati e alle esigenze degli utenti.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 43 (PDF p. 59)",
+      "bookPage": 43,
+      "pdfPage": 59,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q38",
+      "q": "La formazione degli utenti è parte del progetto di introduzione di un ERP.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il passaggio a un ERP richiede gestione organizzativa, formazione e attenzione ai dati e alle esigenze degli utenti.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 43 (PDF p. 59)",
+      "bookPage": 43,
+      "pdfPage": 59,
+      "type": "truefalse"
+    },
+    {
+      "id": "a1-q39",
+      "q": "Prima di trasferire le anagrafiche nel nuovo ERP, cosa conviene fare?",
+      "options": [
+        "Controllare e rendere coerenti i dati",
+        "Duplicare gli errori presenti",
+        "Importare soltanto i nomi senza identificativi",
+        "Eliminare ogni verifica di completezza"
+      ],
+      "answer": 0,
+      "explanation": "Un sistema integrato dipende dalla qualità dei dati iniziali; dati incoerenti possono propagare problemi a più reparti.",
+      "topic": "ERP e integrazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 43 (PDF p. 59)",
+      "bookPage": 43,
+      "pdfPage": 59,
+      "type": "multiple"
+    },
+    {
+      "id": "a1-q40",
+      "q": "Un software integrato rende automaticamente corrette tutte le informazioni errate importate.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Un sistema integrato dipende dalla qualità dei dati iniziali; dati incoerenti possono propagare problemi a più reparti.",
+      "topic": "ERP e integrazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 43 (PDF p. 59)",
+      "bookPage": 43,
+      "pdfPage": 59,
+      "type": "truefalse"
+    }
+  ]
+}

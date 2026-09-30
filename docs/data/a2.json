@@ -1,0 +1,691 @@
+{
+  "id": "a2",
+  "title": "E-commerce e comunicazione digitale",
+  "description": "Commercio elettronico, social network e comunicazione dell’impresa.",
+  "book_pages": [
+    50,
+    103
+  ],
+  "questions": [
+    {
+      "id": "a2-q01",
+      "q": "Un produttore vende componenti a un’altra impresa tramite un portale. Quale modello descrive la vendita?",
+      "options": [
+        "B2B",
+        "B2C",
+        "C2C",
+        "C2B"
+      ],
+      "answer": 0,
+      "explanation": "Il Business-to-Business riguarda scambi tra imprese. Il tipo di soggetti distingue questo modello dagli altri.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 56 (PDF p. 72)",
+      "bookPage": 56,
+      "pdfPage": 72,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q02",
+      "q": "Una vendita online tra due imprese è un esempio di B2B.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il Business-to-Business riguarda scambi tra imprese. Il tipo di soggetti distingue questo modello dagli altri.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 56 (PDF p. 72)",
+      "bookPage": 56,
+      "pdfPage": 72,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q03",
+      "q": "Un negozio online vende uno zaino a un consumatore. Quale modello utilizza?",
+      "options": [
+        "B2C",
+        "C2C",
+        "B2B",
+        "C2B"
+      ],
+      "answer": 0,
+      "explanation": "Il Business-to-Consumer collega un’impresa venditrice al consumatore finale.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 56 (PDF p. 72)",
+      "bookPage": 56,
+      "pdfPage": 72,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q04",
+      "q": "Ogni acquisto di un privato sul sito di un’impresa è classificato come B2B.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il Business-to-Consumer collega un’impresa venditrice al consumatore finale.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 56 (PDF p. 72)",
+      "bookPage": 56,
+      "pdfPage": 72,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q05",
+      "q": "Due privati scambiano un oggetto usato su una piattaforma. Quale segmento è coinvolto?",
+      "options": [
+        "C2C",
+        "B2B",
+        "B2C",
+        "C2B"
+      ],
+      "answer": 0,
+      "explanation": "Il Consumer-to-Consumer descrive scambi tra consumatori, spesso facilitati da una piattaforma.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 57 (PDF p. 73)",
+      "bookPage": 57,
+      "pdfPage": 73,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q06",
+      "q": "Una piattaforma può facilitare scambi C2C senza essere proprietaria di ogni oggetto.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il Consumer-to-Consumer descrive scambi tra consumatori, spesso facilitati da una piattaforma.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 57 (PDF p. 73)",
+      "bookPage": 57,
+      "pdfPage": 73,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q07",
+      "q": "Qual è la funzione del carrello elettronico?",
+      "options": [
+        "Raccogliere i prodotti scelti prima dell’ordine",
+        "Registrare soltanto gli accessi al sito",
+        "Sostituire la gestione delle spedizioni",
+        "Assegnare il codice ATECO"
+      ],
+      "answer": 0,
+      "explanation": "Il carrello conserva la selezione dell’utente e permette di controllare quantità e importi prima di completare l’acquisto.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 54 (PDF p. 70)",
+      "bookPage": 54,
+      "pdfPage": 70,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q08",
+      "q": "Aggiungere un prodotto al carrello equivale sempre ad aver concluso il pagamento.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il carrello conserva la selezione dell’utente e permette di controllare quantità e importi prima di completare l’acquisto.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 54 (PDF p. 70)",
+      "bookPage": 54,
+      "pdfPage": 70,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q09",
+      "q": "Quale fase segue la ricezione e il pagamento di un ordine di beni fisici?",
+      "options": [
+        "Preparazione e adempimento della consegna",
+        "Eliminazione del catalogo",
+        "Disattivazione dell’assistenza",
+        "Sostituzione del prezzo con il numero di visite"
+      ],
+      "answer": 0,
+      "explanation": "Il ciclo di vendita online comprende l’adempimento dell’ordine e il servizio clienti, oltre alla selezione e al pagamento.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 55 (PDF p. 71)",
+      "bookPage": 55,
+      "pdfPage": 71,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q10",
+      "q": "Un e-commerce di beni fisici deve organizzare anche la consegna degli ordini.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il ciclo di vendita online comprende l’adempimento dell’ordine e il servizio clienti, oltre alla selezione e al pagamento.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 55 (PDF p. 71)",
+      "bookPage": 55,
+      "pdfPage": 71,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q11",
+      "q": "Quale caratteristica identifica il pagamento in contrassegno?",
+      "options": [
+        "Il pagamento avviene alla consegna",
+        "Il pagamento avviene solo tramite carta prepagata",
+        "Il prezzo dipende dal numero di visite",
+        "L’acquisto non richiede alcun ordine"
+      ],
+      "answer": 0,
+      "explanation": "Nel contrassegno il destinatario paga quando riceve la merce, secondo le condizioni previste dal venditore.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 62 (PDF p. 78)",
+      "bookPage": 62,
+      "pdfPage": 78,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q12",
+      "q": "Contrassegno significa pagare necessariamente con bonifico prima della spedizione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Nel contrassegno il destinatario paga quando riceve la merce, secondo le condizioni previste dal venditore.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 62 (PDF p. 78)",
+      "bookPage": 62,
+      "pdfPage": 78,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q13",
+      "q": "Quale ruolo svolgono TLS e HTTPS nelle transazioni web?",
+      "options": [
+        "Proteggere il canale di comunicazione",
+        "Garantire la qualità del prodotto venduto",
+        "Assicurare che ogni venditore sia affidabile",
+        "Eliminare la necessità di controllare l’indirizzo del sito"
+      ],
+      "answer": 0,
+      "explanation": "La protezione del canale riduce il rischio di intercettazione; da sola non certifica l’onestà del venditore.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 65 (PDF p. 81)",
+      "bookPage": 65,
+      "pdfPage": 81,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q14",
+      "q": "La presenza di HTTPS garantisce che un negozio non possa effettuare truffe.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La protezione del canale riduce il rischio di intercettazione; da sola non certifica l’onestà del venditore.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 65 (PDF p. 81)",
+      "bookPage": 65,
+      "pdfPage": 81,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q15",
+      "q": "Un’email chiede credenziali bancarie attraverso un link che imita la banca. Quale rischio rappresenta?",
+      "options": [
+        "Phishing",
+        "Merchandising",
+        "Stampa unione",
+        "Indicizzazione"
+      ],
+      "answer": 0,
+      "explanation": "Il phishing usa messaggi e pagine ingannevoli per indurre la vittima a comunicare dati riservati.",
+      "topic": "Commercio elettronico",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 65 (PDF p. 81)",
+      "bookPage": 65,
+      "pdfPage": 81,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q16",
+      "q": "Un messaggio con il logo della banca è sufficiente per considerare autentico il link.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il phishing usa messaggi e pagine ingannevoli per indurre la vittima a comunicare dati riservati.",
+      "topic": "Commercio elettronico",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 65 (PDF p. 81)",
+      "bookPage": 65,
+      "pdfPage": 81,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q17",
+      "q": "Quali elementi costituiscono una rete sociale?",
+      "options": [
+        "Nodi e relazioni",
+        "Solo pagine e fogli di stile",
+        "Soltanto prezzi e quantità",
+        "Esclusivamente router e cavi"
+      ],
+      "answer": 0,
+      "explanation": "Una rete sociale comprende soggetti e legami tra loro. I nodi rappresentano gli attori, le relazioni li collegano.",
+      "topic": "Social network e web",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 69 (PDF p. 85)",
+      "bookPage": 69,
+      "pdfPage": 85,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q18",
+      "q": "Nell’analisi delle reti sociali, le relazioni tra soggetti sono elementi fondamentali.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Una rete sociale comprende soggetti e legami tra loro. I nodi rappresentano gli attori, le relazioni li collegano.",
+      "topic": "Social network e web",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 69 (PDF p. 85)",
+      "bookPage": 69,
+      "pdfPage": 85,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q19",
+      "q": "Quale cambiamento è associato al Web 2.0?",
+      "options": [
+        "Maggiore partecipazione e produzione di contenuti da parte degli utenti",
+        "Eliminazione di ogni interazione",
+        "Passaggio obbligatorio alla sola stampa",
+        "Assenza di comunità online"
+      ],
+      "answer": 0,
+      "explanation": "Il Web 2.0 valorizza interazione, collaborazione e contenuti prodotti dagli utenti.",
+      "topic": "Social network e web",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 73 (PDF p. 89)",
+      "bookPage": 73,
+      "pdfPage": 89,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q20",
+      "q": "Il Web 2.0 descrive soltanto la velocità della connessione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il Web 2.0 valorizza interazione, collaborazione e contenuti prodotti dagli utenti.",
+      "topic": "Social network e web",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 73 (PDF p. 89)",
+      "bookPage": 73,
+      "pdfPage": 89,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q21",
+      "q": "Nel significato usato dal libro, a cosa mira il web semantico?",
+      "options": [
+        "Rendere il significato dei contenuti elaborabile anche dalle macchine",
+        "Rendere tutti i contenuti immagini",
+        "Eliminare i collegamenti tra risorse",
+        "Sostituire i server con stampanti"
+      ],
+      "answer": 0,
+      "explanation": "Il web semantico aggiunge struttura e significato ai dati per facilitarne l’elaborazione automatica.",
+      "topic": "Social network e web",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 75 (PDF p. 91)",
+      "bookPage": 75,
+      "pdfPage": 91,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q22",
+      "q": "Il web semantico si limita a cambiare i colori delle pagine.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il web semantico aggiunge struttura e significato ai dati per facilitarne l’elaborazione automatica.",
+      "topic": "Social network e web",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 75 (PDF p. 91)",
+      "bookPage": 75,
+      "pdfPage": 91,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q23",
+      "q": "Una comunicazione rivolta ai dipendenti è un esempio di quale area?",
+      "options": [
+        "Comunicazione interna",
+        "Comunicazione esclusivamente pubblicitaria",
+        "Vendita C2C",
+        "Sponsorizzazione esterna"
+      ],
+      "answer": 0,
+      "explanation": "La comunicazione interna riguarda i soggetti dell’organizzazione; quella esterna si rivolge al contesto esterno.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 83 (PDF p. 99)",
+      "bookPage": 83,
+      "pdfPage": 99,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q24",
+      "q": "Una circolare organizzativa ai dipendenti rientra nella comunicazione interna.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La comunicazione interna riguarda i soggetti dell’organizzazione; quella esterna si rivolge al contesto esterno.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 83 (PDF p. 99)",
+      "bookPage": 83,
+      "pdfPage": 99,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q25",
+      "q": "Quale funzione svolge il logo aziendale?",
+      "options": [
+        "Rappresentare visivamente l’identità dell’impresa",
+        "Determinare la password di accesso",
+        "Calcolare l’importo delle fatture",
+        "Sostituire il catalogo dei prodotti"
+      ],
+      "answer": 0,
+      "explanation": "Il logo è un elemento grafico di riconoscimento, collegato all’identità e alla comunicazione dell’azienda.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 81 (PDF p. 97)",
+      "bookPage": 81,
+      "pdfPage": 97,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q26",
+      "q": "Il logo è un elemento visivo con cui l’impresa può farsi riconoscere.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il logo è un elemento grafico di riconoscimento, collegato all’identità e alla comunicazione dell’azienda.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 81 (PDF p. 97)",
+      "bookPage": 81,
+      "pdfPage": 97,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q27",
+      "q": "Un’azienda sostiene un evento ottenendo visibilità del proprio nome. Quale tecnica usa?",
+      "options": [
+        "Sponsorizzazione",
+        "Protocollo informatico",
+        "Stampa unione",
+        "Cablaggio"
+      ],
+      "answer": 0,
+      "explanation": "La sponsorizzazione associa l’impresa a un evento o soggetto in cambio di visibilità e ritorno comunicativo.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 87 (PDF p. 103)",
+      "bookPage": 87,
+      "pdfPage": 103,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q28",
+      "q": "Sponsorizzare un evento equivale ad acquistare necessariamente tutti i prodotti esposti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La sponsorizzazione associa l’impresa a un evento o soggetto in cambio di visibilità e ritorno comunicativo.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 87 (PDF p. 103)",
+      "bookPage": 87,
+      "pdfPage": 103,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q29",
+      "q": "Quale azione è una promozione delle vendite?",
+      "options": [
+        "Offrire uno sconto temporaneo su un prodotto",
+        "Assegnare un indirizzo IP",
+        "Installare un sistema operativo",
+        "Cambiare la sede legale senza comunicazione"
+      ],
+      "answer": 0,
+      "explanation": "La promozione delle vendite usa incentivi per stimolare gli acquisti, spesso entro un periodo definito.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 88 (PDF p. 104)",
+      "bookPage": 88,
+      "pdfPage": 104,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q30",
+      "q": "Una promozione può avere durata limitata e condizioni specifiche.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La promozione delle vendite usa incentivi per stimolare gli acquisti, spesso entro un periodo definito.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 88 (PDF p. 104)",
+      "bookPage": 88,
+      "pdfPage": 104,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q31",
+      "q": "Come opera il merchandising nel punto vendita?",
+      "options": [
+        "Cura esposizione e presentazione dei prodotti",
+        "Gestisce soltanto la crittografia",
+        "Sostituisce la contabilità generale",
+        "Riguarda esclusivamente la spedizione postale"
+      ],
+      "answer": 0,
+      "explanation": "Il merchandising valorizza il prodotto nel luogo di vendita tramite disposizione, presentazione e altre scelte commerciali.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 88 (PDF p. 104)",
+      "bookPage": 88,
+      "pdfPage": 104,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q32",
+      "q": "La disposizione dei prodotti nel negozio può essere una scelta di merchandising.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il merchandising valorizza il prodotto nel luogo di vendita tramite disposizione, presentazione e altre scelte commerciali.",
+      "topic": "Comunicazione commerciale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 88 (PDF p. 104)",
+      "bookPage": 88,
+      "pdfPage": 104,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q33",
+      "q": "Qual è la funzione di un banner pubblicitario?",
+      "options": [
+        "Promuovere un’offerta attraverso uno spazio grafico sul web",
+        "Assegnare un indirizzo al server",
+        "Organizzare automaticamente le scorte",
+        "Registrare il protocollo di una lettera"
+      ],
+      "answer": 0,
+      "explanation": "Un banner è un formato pubblicitario visuale che può collegare a una pagina o a un’offerta.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 96 (PDF p. 112)",
+      "bookPage": 96,
+      "pdfPage": 112,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q34",
+      "q": "Un banner è necessariamente una fattura digitale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Un banner è un formato pubblicitario visuale che può collegare a una pagina o a un’offerta.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 96 (PDF p. 112)",
+      "bookPage": 96,
+      "pdfPage": 112,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q35",
+      "q": "Una campagna mostra annunci in relazione alle parole cercate dall’utente. Di cosa si tratta?",
+      "options": [
+        "Keyword advertising",
+        "Stampa unione",
+        "Protocollo documentale",
+        "Housing"
+      ],
+      "answer": 0,
+      "explanation": "La keyword advertising collega annunci e parole chiave, intercettando ricerche pertinenti all’offerta.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 97 (PDF p. 113)",
+      "bookPage": 97,
+      "pdfPage": 113,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q36",
+      "q": "La keyword advertising può usare le parole cercate per rendere pertinente un annuncio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La keyword advertising collega annunci e parole chiave, intercettando ricerche pertinenti all’offerta.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 97 (PDF p. 113)",
+      "bookPage": 97,
+      "pdfPage": 113,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q37",
+      "q": "Quale elemento caratterizza una newsletter?",
+      "options": [
+        "Invio periodico di contenuti a un insieme di iscritti",
+        "Aggiornamento automatico degli indirizzi IP",
+        "Condivisione obbligatoria delle password",
+        "Invio di soli documenti contabili alla PA"
+      ],
+      "answer": 0,
+      "explanation": "La newsletter è uno strumento di comunicazione periodica. Contenuti e destinatari devono essere coerenti con l’obiettivo.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 97 (PDF p. 113)",
+      "bookPage": 97,
+      "pdfPage": 113,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q38",
+      "q": "Una newsletter e una pagina pubblica del sito sono lo stesso canale di distribuzione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La newsletter è uno strumento di comunicazione periodica. Contenuti e destinatari devono essere coerenti con l’obiettivo.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 97 (PDF p. 113)",
+      "bookPage": 97,
+      "pdfPage": 113,
+      "type": "truefalse"
+    },
+    {
+      "id": "a2-q39",
+      "q": "Quale caratteristica identifica un sito vetrina?",
+      "options": [
+        "Presenta l’impresa e la sua offerta senza un processo di acquisto online",
+        "Permette soltanto pagamenti tra privati",
+        "Contiene esclusivamente dati di protocollo",
+        "È un magazzino fisico con casse automatiche"
+      ],
+      "answer": 0,
+      "explanation": "Un sito vetrina informa e presenta l’azienda; si distingue da un negozio online dotato di funzioni di vendita.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 100 (PDF p. 116)",
+      "bookPage": 100,
+      "pdfPage": 116,
+      "type": "multiple"
+    },
+    {
+      "id": "a2-q40",
+      "q": "Un sito vetrina può contribuire alla comunicazione aziendale senza vendere direttamente online.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un sito vetrina informa e presenta l’azienda; si distingue da un negozio online dotato di funzioni di vendita.",
+      "topic": "Pubblicità digitale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 100 (PDF p. 116)",
+      "bookPage": 100,
+      "pdfPage": 116,
+      "type": "truefalse"
+    }
+  ]
+}

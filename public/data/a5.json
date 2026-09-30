@@ -1,0 +1,691 @@
+{
+  "id": "a5",
+  "title": "Sicurezza e identità digitale",
+  "description": "Minacce, protezione dei dati, crittografia, autenticazione e firma.",
+  "book_pages": [
+    188,
+    241
+  ],
+  "questions": [
+    {
+      "id": "a5-q01",
+      "q": "Quale evento è una minaccia naturale per un sistema informatico?",
+      "options": [
+        "Un’alluvione nel locale server",
+        "Un tentativo di phishing",
+        "Una password condivisa",
+        "Un accesso abusivo deliberato"
+      ],
+      "answer": 0,
+      "explanation": "Le minacce naturali comprendono eventi ambientali; gli attacchi e gli errori delle persone hanno origine umana.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 190 (PDF p. 206)",
+      "bookPage": 190,
+      "pdfPage": 206,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q02",
+      "q": "Un evento ambientale può danneggiare un sistema anche senza un attacco informatico.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le minacce naturali comprendono eventi ambientali; gli attacchi e gli errori delle persone hanno origine umana.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 190 (PDF p. 206)",
+      "bookPage": 190,
+      "pdfPage": 206,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q03",
+      "q": "Che cosa significa integrità delle informazioni?",
+      "options": [
+        "Mantenere i dati corretti e protetti da modifiche non autorizzate",
+        "Renderli sempre pubblici",
+        "Conservarli soltanto in un unico file",
+        "Impedire ogni accesso anche autorizzato"
+      ],
+      "answer": 0,
+      "explanation": "L’integrità riguarda la correttezza dei dati e la protezione da alterazioni; è distinta dalla riservatezza e dalla disponibilità.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 192 (PDF p. 208)",
+      "bookPage": 192,
+      "pdfPage": 208,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q04",
+      "q": "Proteggere l’integrità significa rendere tutti i dati liberamente modificabili.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "L’integrità riguarda la correttezza dei dati e la protezione da alterazioni; è distinta dalla riservatezza e dalla disponibilità.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 192 (PDF p. 208)",
+      "bookPage": 192,
+      "pdfPage": 208,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q05",
+      "q": "Quale obiettivo riguarda la disponibilità?",
+      "options": [
+        "Consentire l’uso delle risorse agli utenti autorizzati quando serve",
+        "Nascondere permanentemente tutte le risorse",
+        "Pubblicare ogni password",
+        "Ridurre la leggibilità dei file"
+      ],
+      "answer": 0,
+      "explanation": "La disponibilità è la possibilità di accedere e utilizzare le risorse necessarie nei tempi richiesti.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 192 (PDF p. 208)",
+      "bookPage": 192,
+      "pdfPage": 208,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q06",
+      "q": "Un sistema irraggiungibile può avere un problema di disponibilità anche se i dati non sono stati alterati.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La disponibilità è la possibilità di accedere e utilizzare le risorse necessarie nei tempi richiesti.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 192 (PDF p. 208)",
+      "bookPage": 192,
+      "pdfPage": 208,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q07",
+      "q": "Qual è un esempio di attacco passivo?",
+      "options": [
+        "Intercettare una comunicazione senza modificarla",
+        "Alterare un documento",
+        "Cancellare un archivio",
+        "Bloccare attivamente un servizio"
+      ],
+      "answer": 0,
+      "explanation": "Un attacco passivo osserva o intercetta; un attacco attivo interviene sui dati o sul funzionamento.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 196 (PDF p. 212)",
+      "bookPage": 196,
+      "pdfPage": 212,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q08",
+      "q": "Intercettare dati senza alterarli può essere comunque una minaccia alla riservatezza.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un attacco passivo osserva o intercetta; un attacco attivo interviene sui dati o sul funzionamento.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 196 (PDF p. 212)",
+      "bookPage": 196,
+      "pdfPage": 212,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q09",
+      "q": "Quale comportamento descrive il phishing?",
+      "options": [
+        "Indurre a comunicare dati riservati tramite messaggi ingannevoli",
+        "Verificare un backup in ambiente di prova",
+        "Aggiornare un’applicazione",
+        "Controllare una firma digitale"
+      ],
+      "answer": 0,
+      "explanation": "Il phishing sfrutta l’inganno per ottenere informazioni o azioni della vittima.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 191 (PDF p. 207)",
+      "bookPage": 191,
+      "pdfPage": 207,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q10",
+      "q": "Un messaggio che chiede la password su un sito imitato può essere un tentativo di phishing.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il phishing sfrutta l’inganno per ottenere informazioni o azioni della vittima.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 191 (PDF p. 207)",
+      "bookPage": 191,
+      "pdfPage": 207,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q11",
+      "q": "Quale misura limita le conseguenze della perdita di un archivio?",
+      "options": [
+        "Una copia di sicurezza recuperabile",
+        "La duplicazione del solo collegamento al file",
+        "La condivisione della password con tutti",
+        "La cancellazione dei controlli"
+      ],
+      "answer": 0,
+      "explanation": "Una copia di sicurezza è utile quando i dati possono essere effettivamente ripristinati. La recuperabilità deve essere verificata.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 194 (PDF p. 210)",
+      "bookPage": 194,
+      "pdfPage": 210,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q12",
+      "q": "Un collegamento al file originale equivale a una copia di sicurezza indipendente.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Una copia di sicurezza è utile quando i dati possono essere effettivamente ripristinati. La recuperabilità deve essere verificata.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 194 (PDF p. 210)",
+      "bookPage": 194,
+      "pdfPage": 210,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q13",
+      "q": "Perché aggiornare il software è una misura di protezione?",
+      "options": [
+        "Gli aggiornamenti possono correggere vulnerabilità",
+        "Gli aggiornamenti garantiscono l’assenza di ogni rischio",
+        "Gli aggiornamenti sostituiscono tutte le password",
+        "Gli aggiornamenti eliminano la necessità di backup"
+      ],
+      "answer": 0,
+      "explanation": "Correggere vulnerabilità riduce alcune possibilità di attacco; la sicurezza richiede comunque più misure coordinate.",
+      "topic": "Minacce e protezione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 192 (PDF p. 208)",
+      "bookPage": 192,
+      "pdfPage": 208,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q14",
+      "q": "Aggiornare il software rende inutili tutte le altre misure di sicurezza.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Correggere vulnerabilità riduce alcune possibilità di attacco; la sicurezza richiede comunque più misure coordinate.",
+      "topic": "Minacce e protezione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 192 (PDF p. 208)",
+      "bookPage": 192,
+      "pdfPage": 208,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q15",
+      "q": "Quale dato può essere un dato personale?",
+      "options": [
+        "Un’informazione riferibile a una persona identificata o identificabile",
+        "Soltanto un codice senza alcuna possibile associazione",
+        "Solo la temperatura di una stanza vuota",
+        "Esclusivamente la dimensione di un file anonimo"
+      ],
+      "answer": 0,
+      "explanation": "La tutela dei dati personali riguarda informazioni collegabili a persone, non soltanto il nome scritto per esteso.",
+      "topic": "Dati personali",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 206 (PDF p. 222)",
+      "bookPage": 206,
+      "pdfPage": 222,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q16",
+      "q": "Un identificativo può essere un dato personale se permette di risalire a una persona.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La tutela dei dati personali riguarda informazioni collegabili a persone, non soltanto il nome scritto per esteso.",
+      "topic": "Dati personali",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 206 (PDF p. 222)",
+      "bookPage": 206,
+      "pdfPage": 222,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q17",
+      "q": "Qual è lo scopo principale della cifratura per la riservatezza?",
+      "options": [
+        "Rendere il contenuto non comprensibile a chi non possiede la chiave necessaria",
+        "Ridurre sempre la dimensione del file",
+        "Rendere il documento pubblico",
+        "Correggere automaticamente gli errori ortografici"
+      ],
+      "answer": 0,
+      "explanation": "La cifratura trasforma il testo in una forma che richiede la chiave appropriata per essere interpretata.",
+      "topic": "Crittografia",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 212 (PDF p. 228)",
+      "bookPage": 212,
+      "pdfPage": 228,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q18",
+      "q": "Cifrare e comprimere un file sono operazioni con lo stesso obiettivo.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La cifratura trasforma il testo in una forma che richiede la chiave appropriata per essere interpretata.",
+      "topic": "Crittografia",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 212 (PDF p. 228)",
+      "bookPage": 212,
+      "pdfPage": 228,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q19",
+      "q": "Nella cifratura simmetrica, quale relazione hanno le chiavi?",
+      "options": [
+        "Si usa la stessa chiave segreta per cifrare e decifrare",
+        "Si usa sempre una coppia pubblica e privata",
+        "Non si usa alcuna chiave",
+        "Si pubblica la chiave segreta sul sito"
+      ],
+      "answer": 0,
+      "explanation": "La cifratura simmetrica richiede una chiave condivisa che deve essere gestita in modo riservato.",
+      "topic": "Crittografia",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 213 (PDF p. 229)",
+      "bookPage": 213,
+      "pdfPage": 229,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q20",
+      "q": "Nella cifratura simmetrica la distribuzione sicura della chiave è un problema da gestire.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La cifratura simmetrica richiede una chiave condivisa che deve essere gestita in modo riservato.",
+      "topic": "Crittografia",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 213 (PDF p. 229)",
+      "bookPage": 213,
+      "pdfPage": 229,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q21",
+      "q": "Quale elemento caratterizza la crittografia asimmetrica?",
+      "options": [
+        "Una coppia di chiavi pubblica e privata correlate",
+        "Un’unica chiave pubblicata per ogni funzione",
+        "L’assenza di algoritmi",
+        "Un file privo di destinatario"
+      ],
+      "answer": 0,
+      "explanation": "La crittografia asimmetrica usa una coppia di chiavi con ruoli diversi: una può essere pubblica, l’altra deve restare privata.",
+      "topic": "Crittografia",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 213 (PDF p. 229)",
+      "bookPage": 213,
+      "pdfPage": 229,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q22",
+      "q": "Nella crittografia asimmetrica entrambe le chiavi devono essere diffuse a tutti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La crittografia asimmetrica usa una coppia di chiavi con ruoli diversi: una può essere pubblica, l’altra deve restare privata.",
+      "topic": "Crittografia",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 213 (PDF p. 229)",
+      "bookPage": 213,
+      "pdfPage": 229,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q23",
+      "q": "Per inviare un messaggio riservato con un sistema asimmetrico, quale chiave del destinatario si usa per cifrare?",
+      "options": [
+        "La chiave pubblica del destinatario",
+        "La chiave privata del destinatario comunicata in chat",
+        "La password pubblica del mittente",
+        "La chiave privata di un terzo scelto a caso"
+      ],
+      "answer": 0,
+      "explanation": "Il messaggio cifrato con la chiave pubblica del destinatario è decifrabile con la corrispondente chiave privata.",
+      "topic": "Crittografia",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 213 (PDF p. 229)",
+      "bookPage": 213,
+      "pdfPage": 229,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q24",
+      "q": "Il destinatario deve mantenere riservata la propria chiave privata.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il messaggio cifrato con la chiave pubblica del destinatario è decifrabile con la corrispondente chiave privata.",
+      "topic": "Crittografia",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 213 (PDF p. 229)",
+      "bookPage": 213,
+      "pdfPage": 229,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q25",
+      "q": "Qual è la funzione dell’autenticazione?",
+      "options": [
+        "Verificare l’identità dichiarata da chi accede",
+        "Stabilire il prezzo del servizio",
+        "Comprimere i dati della sessione",
+        "Definire il colore dell’interfaccia"
+      ],
+      "answer": 0,
+      "explanation": "L’autenticazione verifica chi accede; le autorizzazioni stabiliscono invece quali operazioni sono consentite.",
+      "topic": "Autenticazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 219 (PDF p. 235)",
+      "bookPage": 219,
+      "pdfPage": 235,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q26",
+      "q": "Autenticazione e autorizzazione rispondono sempre alla stessa domanda.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "L’autenticazione verifica chi accede; le autorizzazioni stabiliscono invece quali operazioni sono consentite.",
+      "topic": "Autenticazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 219 (PDF p. 235)",
+      "bookPage": 219,
+      "pdfPage": 235,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q27",
+      "q": "Quale descrizione corrisponde a un’OTP?",
+      "options": [
+        "Una password utilizzabile una sola volta nel contesto previsto",
+        "Una password valida indefinitamente",
+        "Un nome utente pubblico",
+        "Una copia di sicurezza del documento"
+      ],
+      "answer": 0,
+      "explanation": "One-Time Password indica una credenziale monouso, utile anche nei meccanismi di autenticazione e firma remota.",
+      "topic": "Autenticazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 224 (PDF p. 240)",
+      "bookPage": 224,
+      "pdfPage": 240,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q28",
+      "q": "Un codice OTP può essere riutilizzato senza limiti come password permanente.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "One-Time Password indica una credenziale monouso, utile anche nei meccanismi di autenticazione e firma remota.",
+      "topic": "Autenticazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 224 (PDF p. 240)",
+      "bookPage": 224,
+      "pdfPage": 240,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q29",
+      "q": "Quale comportamento protegge meglio una credenziale personale?",
+      "options": [
+        "Mantenerla riservata e non condividerla con altri",
+        "Usarla come nome del file pubblico",
+        "Scriverla nella descrizione del profilo",
+        "Inviare la stessa credenziale a tutta la classe"
+      ],
+      "answer": 0,
+      "explanation": "Una credenziale identifica l’utente e deve essere custodita; la condivisione compromette la responsabilità degli accessi.",
+      "topic": "Autenticazione",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 220 (PDF p. 236)",
+      "bookPage": 220,
+      "pdfPage": 236,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q30",
+      "q": "Condividere una password personale può rendere difficile attribuire correttamente gli accessi.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Una credenziale identifica l’utente e deve essere custodita; la condivisione compromette la responsabilità degli accessi.",
+      "topic": "Autenticazione",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 220 (PDF p. 236)",
+      "bookPage": 220,
+      "pdfPage": 236,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q31",
+      "q": "Quale funzione svolge una firma digitale su un documento?",
+      "options": [
+        "Consente di verificarne provenienza e integrità",
+        "Garantisce che il contenuto sia necessariamente vero",
+        "Comprime il documento",
+        "Rende il documento anonimo"
+      ],
+      "answer": 0,
+      "explanation": "La firma permette verifiche sul firmatario e sull’integrità del documento; non certifica la verità di tutte le affermazioni contenute.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 230 (PDF p. 246)",
+      "bookPage": 230,
+      "pdfPage": 246,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q32",
+      "q": "Un documento firmato digitalmente contiene necessariamente informazioni vere.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La firma permette verifiche sul firmatario e sull’integrità del documento; non certifica la verità di tutte le affermazioni contenute.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 230 (PDF p. 246)",
+      "bookPage": 230,
+      "pdfPage": 246,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q33",
+      "q": "Quale chiave viene usata dal titolare per generare la propria firma digitale?",
+      "options": [
+        "La propria chiave privata",
+        "La chiave privata del destinatario",
+        "Una chiave pubblica casuale",
+        "La password di un altro utente"
+      ],
+      "answer": 0,
+      "explanation": "La firma è generata con la chiave privata del firmatario e verificata tramite la chiave pubblica corrispondente.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 231 (PDF p. 247)",
+      "bookPage": 231,
+      "pdfPage": 247,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q34",
+      "q": "La verifica della firma usa la chiave pubblica collegata al firmatario.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La firma è generata con la chiave privata del firmatario e verificata tramite la chiave pubblica corrispondente.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 231 (PDF p. 247)",
+      "bookPage": 231,
+      "pdfPage": 247,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q35",
+      "q": "Quale ruolo svolge un certificato digitale?",
+      "options": [
+        "Associare una chiave pubblica a un soggetto",
+        "Sostituire ogni copia di sicurezza",
+        "Certificare il prezzo di un prodotto",
+        "Archiviare soltanto le immagini del documento"
+      ],
+      "answer": 0,
+      "explanation": "Il certificato collega una chiave all’identità del soggetto secondo il sistema di certificazione e ha una validità da verificare.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 234 (PDF p. 250)",
+      "bookPage": 234,
+      "pdfPage": 250,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q36",
+      "q": "La validità di un certificato non deve mai essere verificata perché non scade.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il certificato collega una chiave all’identità del soggetto secondo il sistema di certificazione e ha una validità da verificare.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 234 (PDF p. 250)",
+      "bookPage": 234,
+      "pdfPage": 250,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q37",
+      "q": "Quale caratteristica distingue la PEC dalla posta ordinaria nel contesto del libro?",
+      "options": [
+        "Ricevute che documentano accettazione e consegna nel sistema certificato",
+        "Assenza totale di ricevute",
+        "Impossibilità di allegare file",
+        "Uso esclusivo per pubblicità anonima"
+      ],
+      "answer": 0,
+      "explanation": "Le ricevute sono elementi fondamentali del funzionamento della posta certificata e della prova del suo invio e recapito.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 237 (PDF p. 253)",
+      "bookPage": 237,
+      "pdfPage": 253,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q38",
+      "q": "La PEC prevede ricevute legate all’accettazione e alla consegna.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le ricevute sono elementi fondamentali del funzionamento della posta certificata e della prova del suo invio e recapito.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 237 (PDF p. 253)",
+      "bookPage": 237,
+      "pdfPage": 253,
+      "type": "truefalse"
+    },
+    {
+      "id": "a5-q39",
+      "q": "Che cosa associa una marca temporale a un documento?",
+      "options": [
+        "Un riferimento temporale verificabile",
+        "Soltanto il numero di pagine",
+        "Il codice ATECO dell’azienda",
+        "La velocità della rete"
+      ],
+      "answer": 0,
+      "explanation": "La marca temporale lega il documento a un riferimento di data e ora; è distinta dalla semplice data digitata nel testo.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 239 (PDF p. 255)",
+      "bookPage": 239,
+      "pdfPage": 255,
+      "type": "multiple"
+    },
+    {
+      "id": "a5-q40",
+      "q": "Scrivere una data nel documento equivale sempre ad applicare una marca temporale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La marca temporale lega il documento a un riferimento di data e ora; è distinta dalla semplice data digitata nel testo.",
+      "topic": "Firma, certificati e PEC",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 239 (PDF p. 255)",
+      "bookPage": 239,
+      "pdfPage": 255,
+      "type": "truefalse"
+    }
+  ]
+}

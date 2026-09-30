@@ -1,0 +1,707 @@
+{
+  "id": "b2",
+  "title": "Documenti aziendali e moduli",
+  "description": "Lettere commerciali, stampa unione e documenti automatizzati.",
+  "book_pages": [
+    348,
+    407
+  ],
+  "questions": [
+    {
+      "id": "b2-q01",
+      "q": "La lettera commerciale deve…",
+      "options": [
+        "avere intestazione, oggetto, corpo chiaro e firma",
+        "essere senza data né firma",
+        "usare solo emoticon",
+        "essere illeggibile"
+      ],
+      "answer": 0,
+      "explanation": "La lettera commerciale organizza mittente, destinatario, oggetto, messaggio e firma in modo riconoscibile.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q02",
+      "q": "Il mail merge (stampa unione) serve a…",
+      "options": [
+        "produrre lettere personalizzate da un modello + elenco dati",
+        "inviare virus",
+        "unire due computer",
+        "formattare dischi"
+      ],
+      "answer": 0,
+      "explanation": "La stampa unione combina un documento principale con un’origine dati per produrre documenti personalizzati.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 364 (PDF p. 380)",
+      "bookPage": 364,
+      "pdfPage": 380,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q03",
+      "q": "Nella stampa unione, l’origine dati contiene…",
+      "options": [
+        "record e campi dei destinatari",
+        "soltanto il testo comune della lettera",
+        "solo le impostazioni della stampante",
+        "il correttore ortografico"
+      ],
+      "answer": 0,
+      "explanation": "L’origine dati contiene record e campi, mentre il documento principale contiene testo comune e campi unione.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 364 (PDF p. 380)",
+      "bookPage": 364,
+      "pdfPage": 380,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q04",
+      "q": "Per verificare le copie del mail merge…",
+      "options": [
+        "si naviga tra i record dalla barra dei record",
+        "si tira a sorte",
+        "si stampa tutto senza controllare",
+        "si cancella l'elenco"
+      ],
+      "answer": 0,
+      "explanation": "L’anteprima consente di passare tra i record e controllare la personalizzazione prima della produzione finale.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 370 (PDF p. 386)",
+      "bookPage": 370,
+      "pdfPage": 386,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q05",
+      "q": "Google Moduli è utile in azienda per…",
+      "options": [
+        "raccogliere risposte con questionari online automatizzati",
+        "montare video",
+        "programmare app",
+        "disegnare loghi"
+      ],
+      "answer": 0,
+      "explanation": "Google Moduli organizza questionari e raccoglie le risposte in forma digitale.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 394 (PDF p. 410)",
+      "bookPage": 394,
+      "pdfPage": 410,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q06",
+      "q": "L'aspetto di un Modulo Google si cambia…",
+      "options": [
+        "definendo layout e temi del questionario",
+        "solo stampando",
+        "mai",
+        "con il martello"
+      ],
+      "answer": 0,
+      "explanation": "Temi e impostazioni visuali cambiano l’aspetto del questionario senza cambiarne necessariamente le domande.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 395 (PDF p. 411)",
+      "bookPage": 395,
+      "pdfPage": 411,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q07",
+      "q": "I documenti automatizzati riducono…",
+      "options": [
+        "errori e tempi rispetto alla compilazione manuale",
+        "la qualità sempre",
+        "la sicurezza sempre",
+        "la leggibilità"
+      ],
+      "answer": 0,
+      "explanation": "Campi e modelli aiutano a compilare documenti ricorrenti in modo coerente e con meno operazioni ripetitive.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 378 (PDF p. 394)",
+      "bookPage": 378,
+      "pdfPage": 394,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q08",
+      "q": "La stampa unione collega un modello ai dati di un elenco.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Documento principale e origine dati sono i due componenti fondamentali della stampa unione.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 364 (PDF p. 380)",
+      "bookPage": 364,
+      "pdfPage": 380,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q09",
+      "q": "Una lettera commerciale non ha bisogno di oggetto e firma.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Oggetto e firma aiutano a comprendere il tema della comunicazione e a identificare il mittente.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q10",
+      "q": "Con Google Moduli le risposte si raccolgono in modo automatico.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le risposte inviate vengono raccolte e rese consultabili dal proprietario del modulo.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 403 (PDF p. 419)",
+      "bookPage": 403,
+      "pdfPage": 419,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q11",
+      "q": "L'intestazione della lettera riporta…",
+      "options": [
+        "il mittente in alto",
+        "il meteo",
+        "l'oroscopo",
+        "barzellette"
+      ],
+      "answer": 0,
+      "explanation": "L’intestazione rende riconoscibile il mittente e le informazioni dell’organizzazione.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q12",
+      "q": "Il blocco destinatario di una lettera contiene…",
+      "options": [
+        "nome e indirizzo di chi riceve",
+        "soltanto la data di stampa",
+        "la password del mittente",
+        "solo il numero di allegati"
+      ],
+      "answer": 0,
+      "explanation": "L’indirizzo del destinatario identifica a chi è rivolta la comunicazione.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q13",
+      "q": "La data nella lettera…",
+      "options": [
+        "colloca il documento nel tempo",
+        "è decorativa",
+        "non serve",
+        "è segreta"
+      ],
+      "answer": 0,
+      "explanation": "La data colloca la comunicazione nel tempo e aiuta a ricostruire la corrispondenza.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q14",
+      "q": "I riferimenti (Prot. n.)…",
+      "options": [
+        "identificano la pratica",
+        "sono numeri a caso",
+        "non servono",
+        "sono password"
+      ],
+      "answer": 0,
+      "explanation": "I riferimenti permettono di collegare la lettera a pratiche o comunicazioni precedenti.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q15",
+      "q": "Il corpo della lettera è…",
+      "options": [
+        "il messaggio chiaro e cortese",
+        "un insulto",
+        "vuoto",
+        "illeggibile"
+      ],
+      "answer": 0,
+      "explanation": "Il corpo deve comunicare lo scopo con chiarezza, precisione e tono adeguato al destinatario.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 349 (PDF p. 365)",
+      "bookPage": 349,
+      "pdfPage": 365,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q16",
+      "q": "I saluti finali sono…",
+      "options": [
+        "la chiusura formale",
+        "un addio per sempre",
+        "inutili",
+        "vietati"
+      ],
+      "answer": 0,
+      "explanation": "La formula di chiusura conclude la comunicazione in modo coerente con il registro della lettera.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q17",
+      "q": "La firma riporta…",
+      "options": [
+        "nome e ruolo del mittente",
+        "una X",
+        "uno scarabocchio",
+        "niente"
+      ],
+      "answer": 0,
+      "explanation": "La firma identifica chi assume la comunicazione e può indicarne il ruolo.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q18",
+      "q": "Gli allegati…",
+      "options": [
+        "si elencano in calce",
+        "si nascondono",
+        "si buttano",
+        "non esistono"
+      ],
+      "answer": 0,
+      "explanation": "L’indicazione degli allegati permette al destinatario di verificarne la presenza.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q19",
+      "q": "La carta intestata contiene…",
+      "options": [
+        "elementi identificativi ricorrenti dell’organizzazione",
+        "solo l’elenco delle fatture insolute",
+        "soltanto il nome del destinatario",
+        "esclusivamente il numero di pagina"
+      ],
+      "answer": 0,
+      "explanation": "La carta intestata raccoglie gli elementi identificativi ricorrenti dell’organizzazione.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 380 (PDF p. 396)",
+      "bookPage": 380,
+      "pdfPage": 396,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q20",
+      "q": "I modelli di Word sono…",
+      "options": [
+        "basi pronte per documenti ricorrenti",
+        "giochi",
+        "virus",
+        "canzoni"
+      ],
+      "answer": 0,
+      "explanation": "Un modello riutilizzabile riduce il lavoro ripetitivo e mantiene struttura e formattazione coerenti.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 378 (PDF p. 394)",
+      "bookPage": 378,
+      "pdfPage": 394,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q21",
+      "q": "I campi modulo in Word permettono di…",
+      "options": [
+        "predisporre zone guidate di inserimento",
+        "trasformare ogni documento in un video",
+        "eliminare la necessità di compilare i dati",
+        "unire automaticamente due reti"
+      ],
+      "answer": 0,
+      "explanation": "I campi modulo delimitano zone di inserimento e guidano la compilazione del documento.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 383 (PDF p. 399)",
+      "bookPage": 383,
+      "pdfPage": 399,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q22",
+      "q": "Un campo calcolato in un documento…",
+      "options": [
+        "restituisce un risultato sulla base di una formula",
+        "contiene sempre e soltanto testo fisso",
+        "elimina ogni dato inserito",
+        "sostituisce il nome del destinatario con un’immagine"
+      ],
+      "answer": 0,
+      "explanation": "Un campo calcolato produce un risultato a partire da dati e da una formula prevista nel modello.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 388 (PDF p. 404)",
+      "bookPage": 388,
+      "pdfPage": 404,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q23",
+      "q": "Gli strumenti di sviluppo di Word possono servire a…",
+      "options": [
+        "inserire controlli per documenti automatizzati",
+        "gestire solo i colori della stampante",
+        "assegnare indirizzi IP",
+        "pubblicare annunci"
+      ],
+      "answer": 0,
+      "explanation": "Gli strumenti di sviluppo permettono di inserire controlli nei documenti automatizzati.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 379 (PDF p. 395)",
+      "bookPage": 379,
+      "pdfPage": 395,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q24",
+      "q": "Un elenco a discesa in un modulo serve a…",
+      "options": [
+        "scegliere tra valori predefiniti",
+        "scrivere sempre testo senza limiti",
+        "eliminare ogni controllo sui dati",
+        "convertire il testo in audio"
+      ],
+      "answer": 0,
+      "explanation": "Un elenco di valori predefiniti aiuta l’utente a scegliere tra alternative ammesse.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 383 (PDF p. 399)",
+      "bookPage": 383,
+      "pdfPage": 399,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q25",
+      "q": "La stampa unione parte da…",
+      "options": [
+        "documento modello + origine dati",
+        "due stampanti",
+        "nessun dato",
+        "un fax"
+      ],
+      "answer": 0,
+      "explanation": "Per la stampa unione occorrono un modello comune e un elenco strutturato di destinatari.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 364 (PDF p. 380)",
+      "bookPage": 364,
+      "pdfPage": 380,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q26",
+      "q": "I campi unione sono…",
+      "options": [
+        "segnaposto dei dati nel modello",
+        "buchi nella carta",
+        "errori",
+        "macchie"
+      ],
+      "answer": 0,
+      "explanation": "I campi unione sono segnaposto: vengono sostituiti con i valori dei singoli record.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 365 (PDF p. 381)",
+      "bookPage": 365,
+      "pdfPage": 381,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q27",
+      "q": "L'anteprima risultati mostra…",
+      "options": [
+        "le copie prima di stampare",
+        "il futuro",
+        "il passato",
+        "niente"
+      ],
+      "answer": 0,
+      "explanation": "L’anteprima aiuta a rilevare campi mancanti e problemi di impaginazione prima di finalizzare.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 370 (PDF p. 386)",
+      "bookPage": 370,
+      "pdfPage": 386,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q28",
+      "q": "Filtrare i record permette di…",
+      "options": [
+        "stampare solo alcuni destinatari",
+        "stampare di più",
+        "non stampare",
+        "rovinare tutto"
+      ],
+      "answer": 0,
+      "explanation": "La selezione dei destinatari limita la produzione ai record che rispettano i criteri scelti.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 366 (PDF p. 382)",
+      "bookPage": 366,
+      "pdfPage": 382,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q29",
+      "q": "Un indirizzo ben disposto sulla busta aiuta a…",
+      "options": [
+        "identificare il destinatario e agevolare la consegna",
+        "calcolare la media delle vendite",
+        "generare il corpo della lettera",
+        "creare l’origine dati"
+      ],
+      "answer": 0,
+      "explanation": "Le informazioni del destinatario devono essere disposte in modo chiaro per agevolare la consegna.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 355 (PDF p. 371)",
+      "bookPage": 355,
+      "pdfPage": 371,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q30",
+      "q": "Google Moduli raccoglie le risposte…",
+      "options": [
+        "quando vengono inviate dagli utenti",
+        "prima che l’utente apra il modulo",
+        "solo dopo la stampa su carta",
+        "senza alcuna compilazione"
+      ],
+      "answer": 0,
+      "explanation": "Le risposte sono raccolte dopo l’invio; la consultazione richiede l’accesso al modulo e alla rete.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 403 (PDF p. 419)",
+      "bookPage": 403,
+      "pdfPage": 419,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q31",
+      "q": "Per consentire più risposte nella stessa domanda di Google Moduli si usano…",
+      "options": [
+        "caselle di controllo",
+        "una scelta esclusiva",
+        "solo un campo data",
+        "un titolo di sezione"
+      ],
+      "answer": 0,
+      "explanation": "Scelta multipla e caselle di controllo permettono rispettivamente una scelta esclusiva e più selezioni.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 400 (PDF p. 416)",
+      "bookPage": 400,
+      "pdfPage": 416,
+      "type": "multiple"
+    },
+    {
+      "id": "b2-q32",
+      "q": "La lettera non ha bisogno di data.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La data è un riferimento utile per identificare e contestualizzare una lettera commerciale.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q33",
+      "q": "Gli allegati vanno elencati.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Elencare gli allegati aiuta il destinatario a controllare la completezza della comunicazione.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 351 (PDF p. 367)",
+      "bookPage": 351,
+      "pdfPage": 367,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q34",
+      "q": "I controlli dei moduli possono guidare l’inserimento dei dati.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un controllo di inserimento può guidare l’utente verso il tipo di dato richiesto.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 383 (PDF p. 399)",
+      "bookPage": 383,
+      "pdfPage": 399,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q35",
+      "q": "Un campo calcolato può produrre un valore a partire da una formula.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un campo calcolato usa una formula; non è soltanto un’etichetta statica.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 388 (PDF p. 404)",
+      "bookPage": 388,
+      "pdfPage": 404,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q36",
+      "q": "Nella stampa unione di lettere, ogni record selezionato può generare una lettera personalizzata.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Nella produzione di lettere la stampa unione genera personalizzazioni in base ai record selezionati.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 364 (PDF p. 380)",
+      "bookPage": 364,
+      "pdfPage": 380,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q37",
+      "q": "I campi unione restano vuoti per sempre.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "I segnaposto sono sostituiti con i dati durante la generazione dei documenti personalizzati.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 365 (PDF p. 381)",
+      "bookPage": 365,
+      "pdfPage": 381,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q38",
+      "q": "Con i filtri si stampano solo record scelti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un filtro limita i destinatari senza dover cancellare definitivamente i record dall’origine dati.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 366 (PDF p. 382)",
+      "bookPage": 366,
+      "pdfPage": 382,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q39",
+      "q": "Google Moduli funziona solo offline.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il servizio Google Moduli si usa online: non è presentato come applicazione esclusivamente offline.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 394 (PDF p. 410)",
+      "bookPage": 394,
+      "pdfPage": 410,
+      "type": "truefalse"
+    },
+    {
+      "id": "b2-q40",
+      "q": "Le risposte di un modulo diventano consultabili dopo il loro invio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le risposte diventano consultabili dopo l’invio da parte degli utenti.",
+      "topic": "Documenti aziendali e moduli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 403 (PDF p. 419)",
+      "bookPage": 403,
+      "pdfPage": 419,
+      "type": "truefalse"
+    }
+  ]
+}

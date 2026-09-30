@@ -1,0 +1,691 @@
+{
+  "id": "a4",
+  "title": "Reti, networking e cloud",
+  "description": "Protocolli, dispositivi e servizi per collegare persone e risorse.",
+  "book_pages": [
+    150,
+    187
+  ],
+  "questions": [
+    {
+      "id": "a4-q01",
+      "q": "Che cos’è un protocollo di rete?",
+      "options": [
+        "Un insieme di regole per lo scambio di dati",
+        "Un singolo cavo di collegamento",
+        "Il nome commerciale del computer",
+        "La quantità di memoria del server"
+      ],
+      "answer": 0,
+      "explanation": "I protocolli definiscono come i dispositivi comunicano e interpretano i dati scambiati.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 151 (PDF p. 167)",
+      "bookPage": 151,
+      "pdfPage": 167,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q02",
+      "q": "Due dispositivi devono usare regole compatibili per comunicare correttamente.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "I protocolli definiscono come i dispositivi comunicano e interpretano i dati scambiati.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 151 (PDF p. 167)",
+      "bookPage": 151,
+      "pdfPage": 167,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q03",
+      "q": "Quanti livelli comprende il modello ISO-OSI?",
+      "options": [
+        "Sette",
+        "Quattro",
+        "Cinque",
+        "Nove"
+      ],
+      "answer": 0,
+      "explanation": "Il modello ISO-OSI organizza le funzioni di comunicazione in sette livelli, dal fisico all’applicazione.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 152 (PDF p. 168)",
+      "bookPage": 152,
+      "pdfPage": 168,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q04",
+      "q": "Il modello ISO-OSI è costituito da un unico livello.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il modello ISO-OSI organizza le funzioni di comunicazione in sette livelli, dal fisico all’applicazione.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 152 (PDF p. 168)",
+      "bookPage": 152,
+      "pdfPage": 168,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q05",
+      "q": "Quale compito appartiene al livello fisico?",
+      "options": [
+        "Trasmettere bit sul mezzo di comunicazione",
+        "Gestire i moduli di un ERP",
+        "Definire il contenuto di una newsletter",
+        "Attribuire la paternità di una foto"
+      ],
+      "answer": 0,
+      "explanation": "Il livello fisico riguarda segnali e mezzi attraverso cui i bit vengono trasmessi.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 152 (PDF p. 168)",
+      "bookPage": 152,
+      "pdfPage": 168,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q06",
+      "q": "Il livello fisico interpreta gli obiettivi di una campagna pubblicitaria.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il livello fisico riguarda segnali e mezzi attraverso cui i bit vengono trasmessi.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 152 (PDF p. 168)",
+      "bookPage": 152,
+      "pdfPage": 168,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q07",
+      "q": "Quale ruolo svolge IP nell’architettura TCP/IP?",
+      "options": [
+        "Indirizzamento e instradamento dei pacchetti",
+        "Definizione dei colori HTML",
+        "Firma delle fatture",
+        "Compressione delle immagini"
+      ],
+      "answer": 0,
+      "explanation": "IP permette di indirizzare i pacchetti e farli transitare tra reti; non svolge le funzioni applicative.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 156 (PDF p. 172)",
+      "bookPage": 156,
+      "pdfPage": 172,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q08",
+      "q": "Gli indirizzi IP contribuiscono a identificare la destinazione dei pacchetti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "IP permette di indirizzare i pacchetti e farli transitare tra reti; non svolge le funzioni applicative.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 156 (PDF p. 172)",
+      "bookPage": 156,
+      "pdfPage": 172,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q09",
+      "q": "Quale proprietà è associata a TCP?",
+      "options": [
+        "Gestione di un flusso affidabile e ordinato",
+        "Compressione obbligatoria di ogni file",
+        "Assenza di controlli sul trasporto",
+        "Assegnazione dei nomi di dominio"
+      ],
+      "answer": 0,
+      "explanation": "TCP gestisce il trasporto con meccanismi di controllo, ordinamento e ritrasmissione dei dati.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 156 (PDF p. 172)",
+      "bookPage": 156,
+      "pdfPage": 172,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q10",
+      "q": "TCP e IP svolgono esattamente la stessa funzione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "TCP gestisce il trasporto con meccanismi di controllo, ordinamento e ritrasmissione dei dati.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 156 (PDF p. 172)",
+      "bookPage": 156,
+      "pdfPage": 172,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q11",
+      "q": "Un indirizzo IPv4 è formato da quanti bit?",
+      "options": [
+        "32",
+        "8",
+        "16",
+        "128"
+      ],
+      "answer": 0,
+      "explanation": "Un indirizzo IPv4 ha 32 bit, normalmente rappresentati come quattro gruppi decimali.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 157 (PDF p. 173)",
+      "bookPage": 157,
+      "pdfPage": 173,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q12",
+      "q": "La rappresentazione abituale di IPv4 contiene quattro gruppi separati da punti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un indirizzo IPv4 ha 32 bit, normalmente rappresentati come quattro gruppi decimali.",
+      "topic": "Architetture e protocolli",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 157 (PDF p. 173)",
+      "bookPage": 157,
+      "pdfPage": 173,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q13",
+      "q": "Quale rete collega tipicamente i dispositivi di un singolo ufficio?",
+      "options": [
+        "LAN",
+        "WAN",
+        "Rete satellitare globale",
+        "Rete intercontinentale"
+      ],
+      "answer": 0,
+      "explanation": "La LAN è una rete locale, adatta a collegare dispositivi in un’area circoscritta come un ufficio.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 161 (PDF p. 177)",
+      "bookPage": 161,
+      "pdfPage": 177,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q14",
+      "q": "Una LAN e una WAN hanno necessariamente la stessa estensione geografica.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La LAN è una rete locale, adatta a collegare dispositivi in un’area circoscritta come un ufficio.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 161 (PDF p. 177)",
+      "bookPage": 161,
+      "pdfPage": 177,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q15",
+      "q": "Nel modello client/server, che cosa fa un server?",
+      "options": [
+        "Mette risorse o servizi a disposizione dei client",
+        "Richiede soltanto servizi senza offrirne",
+        "Sostituisce ogni dispositivo di rete",
+        "Rappresenta soltanto un cavo"
+      ],
+      "answer": 0,
+      "explanation": "Il server fornisce servizi o risorse, mentre il client li richiede e li utilizza.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 162 (PDF p. 178)",
+      "bookPage": 162,
+      "pdfPage": 178,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q16",
+      "q": "Un computer client può richiedere un servizio a un server della rete.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il server fornisce servizi o risorse, mentre il client li richiede e li utilizza.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 162 (PDF p. 178)",
+      "bookPage": 162,
+      "pdfPage": 178,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q17",
+      "q": "Quale dispositivo inoltra frame tra dispositivi della stessa rete locale?",
+      "options": [
+        "Switch",
+        "Router usato per collegare reti diverse",
+        "Microfono",
+        "Stampante priva di interfaccia di rete"
+      ],
+      "answer": 0,
+      "explanation": "Lo switch collega dispositivi della LAN e inoltra il traffico sulle porte appropriate.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 164 (PDF p. 180)",
+      "bookPage": 164,
+      "pdfPage": 180,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q18",
+      "q": "Uno switch serve esclusivamente a convertire un’immagine in un file audio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Lo switch collega dispositivi della LAN e inoltra il traffico sulle porte appropriate.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 164 (PDF p. 180)",
+      "bookPage": 164,
+      "pdfPage": 180,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q19",
+      "q": "Quale dispositivo collega reti IP differenti?",
+      "options": [
+        "Router",
+        "Solo un cavo passivo",
+        "Solo un monitor",
+        "Un editor di testo"
+      ],
+      "answer": 0,
+      "explanation": "Il router instrada pacchetti tra reti, consentendo ad esempio il collegamento tra LAN e rete esterna.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 165 (PDF p. 181)",
+      "bookPage": 165,
+      "pdfPage": 181,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q20",
+      "q": "Il router può permettere il passaggio di pacchetti tra reti differenti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il router instrada pacchetti tra reti, consentendo ad esempio il collegamento tra LAN e rete esterna.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 165 (PDF p. 181)",
+      "bookPage": 165,
+      "pdfPage": 181,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q21",
+      "q": "Quale mezzo trasporta dati tramite segnali luminosi?",
+      "options": [
+        "Fibra ottica",
+        "Doppino in rame",
+        "Collegamento radio Wi-Fi",
+        "Cavo elettrico di alimentazione"
+      ],
+      "answer": 0,
+      "explanation": "La fibra ottica usa la luce per trasportare segnali; si distingue dai cavi in rame e dai collegamenti radio.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 163 (PDF p. 179)",
+      "bookPage": 163,
+      "pdfPage": 179,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q22",
+      "q": "La fibra ottica trasmette i dati tramite onde radio nello spazio libero.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La fibra ottica usa la luce per trasportare segnali; si distingue dai cavi in rame e dai collegamenti radio.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 163 (PDF p. 179)",
+      "bookPage": 163,
+      "pdfPage": 179,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q23",
+      "q": "Quale caratteristica distingue una rete Wi-Fi?",
+      "options": [
+        "Uso di collegamenti radio",
+        "Uso obbligatorio di fibra fino a ogni dispositivo",
+        "Assenza di regole di comunicazione",
+        "Esclusione degli smartphone"
+      ],
+      "answer": 0,
+      "explanation": "Le reti wireless permettono collegamenti senza un cavo fisico verso ciascun dispositivo, usando segnali radio.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 163 (PDF p. 179)",
+      "bookPage": 163,
+      "pdfPage": 179,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q24",
+      "q": "Una rete Wi-Fi non richiede un cavo di rete per ogni client collegato via radio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le reti wireless permettono collegamenti senza un cavo fisico verso ciascun dispositivo, usando segnali radio.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 163 (PDF p. 179)",
+      "bookPage": 163,
+      "pdfPage": 179,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q25",
+      "q": "Quale scopo ha una VPN?",
+      "options": [
+        "Creare un collegamento privato logico attraverso una rete condivisa",
+        "Eliminare ogni autenticazione",
+        "Comprimere automaticamente le immagini",
+        "Assegnare il prezzo ai prodotti"
+      ],
+      "answer": 0,
+      "explanation": "Una VPN permette una connessione logica privata su un’infrastruttura condivisa, utile anche per accessi remoti.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 167 (PDF p. 183)",
+      "bookPage": 167,
+      "pdfPage": 183,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q26",
+      "q": "Una VPN elimina ogni necessità di proteggere le credenziali dell’utente.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Una VPN permette una connessione logica privata su un’infrastruttura condivisa, utile anche per accessi remoti.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 167 (PDF p. 183)",
+      "bookPage": 167,
+      "pdfPage": 183,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q27",
+      "q": "In una topologia a stella, come sono collegati tipicamente i nodi?",
+      "options": [
+        "A un dispositivo centrale",
+        "Tutti in un’unica catena senza nodo centrale",
+        "Solo a coppie isolate",
+        "Soltanto a un supporto di stampa"
+      ],
+      "answer": 0,
+      "explanation": "La topologia a stella prevede collegamenti dei nodi verso un centro di connessione.",
+      "topic": "Networking",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 165 (PDF p. 181)",
+      "bookPage": 165,
+      "pdfPage": 181,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q28",
+      "q": "In una topologia a stella il dispositivo centrale non ha alcun ruolo nella comunicazione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La topologia a stella prevede collegamenti dei nodi verso un centro di connessione.",
+      "topic": "Networking",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 165 (PDF p. 181)",
+      "bookPage": 165,
+      "pdfPage": 181,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q29",
+      "q": "Che cosa distingue un indirizzo IP statico da uno dinamico?",
+      "options": [
+        "Lo statico è configurato stabilmente, il dinamico può essere assegnato automaticamente",
+        "Lo statico contiene sempre più bit",
+        "Il dinamico non identifica mai un dispositivo",
+        "Lo statico serve solo alle immagini"
+      ],
+      "answer": 0,
+      "explanation": "La distinzione riguarda il modo di assegnazione: un indirizzo dinamico può essere ottenuto tramite un servizio di configurazione.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 176 (PDF p. 192)",
+      "bookPage": 176,
+      "pdfPage": 192,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q30",
+      "q": "Un indirizzo assegnato dinamicamente è necessariamente sempre lo stesso per tutta la vita del dispositivo.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La distinzione riguarda il modo di assegnazione: un indirizzo dinamico può essere ottenuto tramite un servizio di configurazione.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 176 (PDF p. 192)",
+      "bookPage": 176,
+      "pdfPage": 192,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q31",
+      "q": "Quale indirizzo appartiene a uno spazio IPv4 privato comunemente usato?",
+      "options": [
+        "192.168.1.10",
+        "8.8.8.8",
+        "1.1.1.1",
+        "9.9.9.9"
+      ],
+      "answer": 0,
+      "explanation": "La rete 192.168.0.0/16 appartiene agli spazi di indirizzi privati descritti per le reti locali.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 173 (PDF p. 189)",
+      "bookPage": 173,
+      "pdfPage": 189,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q32",
+      "q": "Un indirizzo privato di una LAN non è direttamente equivalente a un indirizzo pubblico raggiungibile da Internet.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La rete 192.168.0.0/16 appartiene agli spazi di indirizzi privati descritti per le reti locali.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 173 (PDF p. 189)",
+      "bookPage": 173,
+      "pdfPage": 189,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q33",
+      "q": "Che cosa significa hosting di un sito?",
+      "options": [
+        "Ospitare i file o i servizi del sito su un server raggiungibile",
+        "Stampare tutte le pagine",
+        "Registrare solo il logo",
+        "Tenere i file esclusivamente su un PC non collegato"
+      ],
+      "answer": 0,
+      "explanation": "L’hosting fornisce risorse server per rendere il sito disponibile tramite la rete.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 181 (PDF p. 197)",
+      "bookPage": 181,
+      "pdfPage": 197,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q34",
+      "q": "La sola presenza dei file sul computer personale rende automaticamente pubblico un sito.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "L’hosting fornisce risorse server per rendere il sito disponibile tramite la rete.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 181 (PDF p. 197)",
+      "bookPage": 181,
+      "pdfPage": 197,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q35",
+      "q": "Quale caratteristica distingue l’housing dall’hosting?",
+      "options": [
+        "Il cliente colloca il proprio server nel data center del fornitore",
+        "Il cliente usa soltanto un editor HTML",
+        "Il sito non richiede energia",
+        "Si utilizza solo la stampa cartacea"
+      ],
+      "answer": 0,
+      "explanation": "Nell’housing viene ospitato il server del cliente; nell’hosting si utilizzano le risorse messe a disposizione dal fornitore.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 181 (PDF p. 197)",
+      "bookPage": 181,
+      "pdfPage": 197,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q36",
+      "q": "Housing e hosting descrivono necessariamente lo stesso accordo sul server.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Nell’housing viene ospitato il server del cliente; nell’hosting si utilizzano le risorse messe a disposizione dal fornitore.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 181 (PDF p. 197)",
+      "bookPage": 181,
+      "pdfPage": 197,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q37",
+      "q": "Quale vantaggio offre il cloud computing?",
+      "options": [
+        "Accedere a risorse informatiche erogate attraverso la rete",
+        "Eliminare ogni rischio sui dati",
+        "Funzionare sempre senza connessione",
+        "Rendere superfluo il controllo degli accessi"
+      ],
+      "answer": 0,
+      "explanation": "Il cloud fornisce servizi e risorse via rete, con possibilità di adattare la capacità alle esigenze.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 182 (PDF p. 198)",
+      "bookPage": 182,
+      "pdfPage": 198,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q38",
+      "q": "Usare il cloud non elimina automaticamente i problemi di sicurezza e gestione dei dati.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il cloud fornisce servizi e risorse via rete, con possibilità di adattare la capacità alle esigenze.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 182 (PDF p. 198)",
+      "bookPage": 182,
+      "pdfPage": 198,
+      "type": "truefalse"
+    },
+    {
+      "id": "a4-q39",
+      "q": "Perché considerare la localizzazione dei dati nel cloud?",
+      "options": [
+        "Per valutare condizioni di gestione, tutela e responsabilità",
+        "Per scegliere soltanto il colore dei server",
+        "Per evitare ogni contratto",
+        "Per garantire che i dati non esistano più"
+      ],
+      "answer": 0,
+      "explanation": "Il cloud comporta valutazioni su dove e come i dati sono gestiti, oltre ai vantaggi tecnici del servizio.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 184 (PDF p. 200)",
+      "bookPage": 184,
+      "pdfPage": 200,
+      "type": "multiple"
+    },
+    {
+      "id": "a4-q40",
+      "q": "La localizzazione dei dati può essere un elemento da valutare nella scelta di un servizio cloud.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il cloud comporta valutazioni su dove e come i dati sono gestiti, oltre ai vantaggi tecnici del servizio.",
+      "topic": "Rete aziendale e cloud",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 184 (PDF p. 200)",
+      "bookPage": 184,
+      "pdfPage": 200,
+      "type": "truefalse"
+    }
+  ]
+}

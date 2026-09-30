@@ -1,0 +1,707 @@
+{
+  "id": "b1",
+  "title": "Siti web, HTML e CSS",
+  "description": "Struttura delle pagine, stile, moduli e gestione dei contenuti.",
+  "book_pages": [
+    284,
+    347
+  ],
+  "questions": [
+    {
+      "id": "b1-q01",
+      "q": "HTML è…",
+      "options": [
+        "il linguaggio di markup per strutturare le pagine web",
+        "un foglio di calcolo",
+        "un antivirus",
+        "un database"
+      ],
+      "answer": 0,
+      "explanation": "HTML descrive la struttura e il significato degli elementi della pagina; lo stile è affidato ai CSS.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 294 (PDF p. 310)",
+      "bookPage": 294,
+      "pdfPage": 310,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q02",
+      "q": "Quale elemento HTML rappresenta un paragrafo?",
+      "options": [
+        "<p>",
+        "<table>",
+        "<img>",
+        "<form>"
+      ],
+      "answer": 0,
+      "explanation": "Il tag p identifica un paragrafo. In una pagina moderna l’allineamento si imposta tramite CSS.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 300 (PDF p. 316)",
+      "bookPage": 300,
+      "pdfPage": 316,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q03",
+      "q": "I CSS servono a…",
+      "options": [
+        "separare stile e presentazione dal contenuto HTML",
+        "scrivere virus",
+        "sostituire il server",
+        "eliminare internet"
+      ],
+      "answer": 0,
+      "explanation": "I CSS separano le regole di presentazione dalla struttura HTML e ne facilitano il riuso.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 314 (PDF p. 330)",
+      "bookPage": 314,
+      "pdfPage": 330,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q04",
+      "q": "Una classe CSS .evidenziato…",
+      "options": [
+        "si applica con class=\"evidenziato\" a uno o più elementi",
+        "funziona solo stampando",
+        "non esiste",
+        "cancella il testo"
+      ],
+      "answer": 0,
+      "explanation": "Una classe si applica tramite l’attributo class e può essere assegnata a più elementi.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 320 (PDF p. 336)",
+      "bookPage": 320,
+      "pdfPage": 336,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q05",
+      "q": "HTML5 introduce…",
+      "options": [
+        "nuovi tag semantici e form avanzati (email, date, validazione)",
+        "solo pagine cartacee",
+        "niente form",
+        "solo bianco e nero"
+      ],
+      "answer": 0,
+      "explanation": "HTML5 comprende elementi semantici e tipi di input per dati come email e date.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 326 (PDF p. 342)",
+      "bookPage": 326,
+      "pdfPage": 342,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q06",
+      "q": "Usabilità e accessibilità di un sito significano…",
+      "options": [
+        "facile da usare e fruibile da tutti, anche con disabilità",
+        "solo bello da vedere",
+        "solo veloce",
+        "solo pieno di animazioni"
+      ],
+      "answer": 0,
+      "explanation": "Usabilità e accessibilità favoriscono comprensione e fruizione, anche con tecnologie assistive.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 292 (PDF p. 308)",
+      "bookPage": 292,
+      "pdfPage": 308,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q07",
+      "q": "Un CMS (es. per siti aziendali) permette di…",
+      "options": [
+        "creare e gestire contenuti senza scrivere tutto il codice",
+        "programmare chip",
+        "stampare libri",
+        "creare virus"
+      ],
+      "answer": 0,
+      "explanation": "Un CMS gestisce contenuti e pubblicazione attraverso strumenti dedicati, senza riscrivere manualmente ogni pagina.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 334 (PDF p. 350)",
+      "bookPage": 334,
+      "pdfPage": 350,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q08",
+      "q": "In HTML la struttura (tag) e lo stile (CSS) è bene tenerli separati.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Separare struttura e presentazione facilita aggiornamenti e coerenza tra pagine.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 314 (PDF p. 330)",
+      "bookPage": 314,
+      "pdfPage": 330,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q09",
+      "q": "La proprietà CSS text-align può controllare l’allineamento del testo.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La proprietà CSS text-align permette di scegliere l’allineamento del testo nel contenitore.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 300 (PDF p. 316)",
+      "bookPage": 300,
+      "pdfPage": 316,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q10",
+      "q": "Un sito usabile deve confondere l'utente con menu nascosti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Etichette chiare e navigazione comprensibile aiutano gli utenti a orientarsi.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 292 (PDF p. 308)",
+      "bookPage": 292,
+      "pdfPage": 308,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q11",
+      "q": "Il tag <p> definisce…",
+      "options": [
+        "un paragrafo",
+        "un'immagine",
+        "un link",
+        "un virus"
+      ],
+      "answer": 0,
+      "explanation": "Il tag p delimita un paragrafo di testo.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 300 (PDF p. 316)",
+      "bookPage": 300,
+      "pdfPage": 316,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q12",
+      "q": "I titoli <h1>-<h6>…",
+      "options": [
+        "gerarchia dal più al meno importante",
+        "sono tutti uguali",
+        "non esistono",
+        "sono virus"
+      ],
+      "answer": 0,
+      "explanation": "I titoli da h1 a h6 esprimono livelli gerarchici, non soltanto differenze di dimensione.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 299 (PDF p. 315)",
+      "bookPage": 299,
+      "pdfPage": 315,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q13",
+      "q": "Le liste <ul>/<ol> sono…",
+      "options": [
+        "puntate e numerate",
+        "sempre vuote",
+        "vietate",
+        "a pagamento"
+      ],
+      "answer": 0,
+      "explanation": "ul identifica una lista non ordinata; ol identifica una lista ordinata.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 303 (PDF p. 319)",
+      "bookPage": 303,
+      "pdfPage": 319,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q14",
+      "q": "Le tabelle <table> organizzano…",
+      "options": [
+        "righe e celle di dati",
+        "solo immagini",
+        "solo video",
+        "solo audio"
+      ],
+      "answer": 0,
+      "explanation": "Le tabelle organizzano dati in righe e celle, utili quando esistono relazioni tabellari.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 308 (PDF p. 324)",
+      "bookPage": 308,
+      "pdfPage": 324,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q15",
+      "q": "Il tag <div> è…",
+      "options": [
+        "un contenitore generico",
+        "un virus",
+        "un'immagine",
+        "un link"
+      ],
+      "answer": 0,
+      "explanation": "div è un contenitore generico per raggruppare elementi e applicare regole di stile.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 314 (PDF p. 330)",
+      "bookPage": 314,
+      "pdfPage": 330,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q16",
+      "q": "Il tag <span> è…",
+      "options": [
+        "un contenitore in linea",
+        "un blocco enorme",
+        "un virus",
+        "un modulo"
+      ],
+      "answer": 0,
+      "explanation": "span è un contenitore generico in linea, usato anche per applicare stile a una porzione di testo.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 314 (PDF p. 330)",
+      "bookPage": 314,
+      "pdfPage": 330,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q17",
+      "q": "Il CSS incorporato in <style>…",
+      "options": [
+        "mette gli stili nella pagina",
+        "elimina la pagina",
+        "crea virus",
+        "stampa"
+      ],
+      "answer": 0,
+      "explanation": "Il blocco style ospita regole CSS all’interno del documento HTML.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 315 (PDF p. 331)",
+      "bookPage": 315,
+      "pdfPage": 331,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q18",
+      "q": "Il foglio esterno è…",
+      "options": [
+        "un file .css collegato con <link>",
+        "un foglio di carta",
+        "un lenzuolo",
+        "una tovaglia"
+      ],
+      "answer": 0,
+      "explanation": "Un foglio esterno può essere condiviso da più pagine attraverso il collegamento link.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 315 (PDF p. 331)",
+      "bookPage": 315,
+      "pdfPage": 331,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q19",
+      "q": "I selettori di classe .nome…",
+      "options": [
+        "si riusano su più elementi",
+        "unici per pagina",
+        "non esistono",
+        "vietati"
+      ],
+      "answer": 0,
+      "explanation": "Una classe è riutilizzabile: più elementi possono avere lo stesso valore di class.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 320 (PDF p. 336)",
+      "bookPage": 320,
+      "pdfPage": 336,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q20",
+      "q": "I selettori di id #nome…",
+      "options": [
+        "identificano un elemento unico",
+        "si ripetono ovunque",
+        "non esistono",
+        "sono virus"
+      ],
+      "answer": 0,
+      "explanation": "Un identificativo id deve essere unico all’interno del documento HTML.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 320 (PDF p. 336)",
+      "bookPage": 320,
+      "pdfPage": 336,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q21",
+      "q": "Il selettore di tag stilizza…",
+      "options": [
+        "tutti gli elementi di quel tipo",
+        "un solo pixel",
+        "niente",
+        "tutto il web"
+      ],
+      "answer": 0,
+      "explanation": "Il selettore di tipo, per esempio p, seleziona gli elementi di quel tipo.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 316 (PDF p. 332)",
+      "bookPage": 316,
+      "pdfPage": 332,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q22",
+      "q": "Il box model comprende…",
+      "options": [
+        "contenuto, padding, bordo, margine",
+        "solo il bordo",
+        "solo il contenuto",
+        " scatole vere"
+      ],
+      "answer": 0,
+      "explanation": "Il box model descrive contenuto, spaziatura interna, bordo e margine esterno.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 318 (PDF p. 334)",
+      "bookPage": 318,
+      "pdfPage": 334,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q23",
+      "q": "Il padding è…",
+      "options": [
+        "lo spazio interno al bordo",
+        "lo spazio esterno",
+        "un cuscino vero",
+        "un materasso"
+      ],
+      "answer": 0,
+      "explanation": "Il padding è lo spazio tra il contenuto e il bordo dell’elemento.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 318 (PDF p. 334)",
+      "bookPage": 318,
+      "pdfPage": 334,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q24",
+      "q": "Il margine è…",
+      "options": [
+        "lo spazio esterno al bordo",
+        "lo spazio interno",
+        "un quadro",
+        "una cornice vera"
+      ],
+      "answer": 0,
+      "explanation": "Il margin è lo spazio esterno al bordo, distinto dal padding.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 318 (PDF p. 334)",
+      "bookPage": 318,
+      "pdfPage": 334,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q25",
+      "q": "I colori CSS si scrivono con…",
+      "options": [
+        "nomi, esadecimali o rgb",
+        "solo parole",
+        "solo numeri romani",
+        "emoji"
+      ],
+      "answer": 0,
+      "explanation": "CSS accetta diversi formati di colore, inclusi nomi, valori esadecimali e RGB.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 316 (PDF p. 332)",
+      "bookPage": 316,
+      "pdfPage": 332,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q26",
+      "q": "I font definiscono…",
+      "options": [
+        "famiglie e dimensioni del testo",
+        "il profumo",
+        "il sapore",
+        "il peso"
+      ],
+      "answer": 0,
+      "explanation": "Le proprietà tipografiche regolano famiglia, dimensione, peso e altri aspetti del testo.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 316 (PDF p. 332)",
+      "bookPage": 316,
+      "pdfPage": 332,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q27",
+      "q": "Il form <form>…",
+      "options": [
+        "raccoglie dati da inviare",
+        "mostra film",
+        "suona musica",
+        "disegna"
+      ],
+      "answer": 0,
+      "explanation": "Un form raggruppa controlli con cui raccogliere dati; per elaborarli occorre una logica applicativa.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 326 (PDF p. 342)",
+      "bookPage": 326,
+      "pdfPage": 342,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q28",
+      "q": "L'input text è…",
+      "options": [
+        "un campo di testo libero",
+        "una password",
+        "un bottone",
+        "un'immagine"
+      ],
+      "answer": 0,
+      "explanation": "Un input text consente di inserire una stringa di testo su una riga.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 327 (PDF p. 343)",
+      "bookPage": 327,
+      "pdfPage": 343,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q29",
+      "q": "L'input email…",
+      "options": [
+        "controlla il formato dell'indirizzo",
+        "invia da solo",
+        "non esiste",
+        "è un virus"
+      ],
+      "answer": 0,
+      "explanation": "L’input email può controllare la forma dell’indirizzo, ma non prova che la casella esista.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 328 (PDF p. 344)",
+      "bookPage": 328,
+      "pdfPage": 344,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q30",
+      "q": "L’input di tipo date serve a…",
+      "options": [
+        "inserire una data",
+        "inserire un indirizzo email",
+        "selezionare un file video",
+        "assegnare una classe CSS"
+      ],
+      "answer": 0,
+      "explanation": "L’input date permette l’inserimento di una data; l’interfaccia concreta dipende dal browser.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 328 (PDF p. 344)",
+      "bookPage": 328,
+      "pdfPage": 344,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q31",
+      "q": "L'attributo required…",
+      "options": [
+        "rende obbligatoria la compilazione",
+        "è decorativo",
+        "non esiste",
+        "blocca tutto"
+      ],
+      "answer": 0,
+      "explanation": "required indica al browser che il controllo deve essere compilato prima dell’invio ordinario del form.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 329 (PDF p. 345)",
+      "bookPage": 329,
+      "pdfPage": 345,
+      "type": "multiple"
+    },
+    {
+      "id": "b1-q32",
+      "q": "I tag HTML sono case sensitive per il browser.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Nel normale HTML i nomi dei tag non distinguono maiuscole e minuscole; usare minuscole mantiene coerenza.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 294 (PDF p. 310)",
+      "bookPage": 294,
+      "pdfPage": 310,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q33",
+      "q": "I titoli HTML devono rappresentare una gerarchia coerente dei contenuti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "I titoli devono rappresentare la gerarchia del contenuto, oltre alla presentazione grafica.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 299 (PDF p. 315)",
+      "bookPage": 299,
+      "pdfPage": 315,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q34",
+      "q": "Le classi si riusano su più elementi.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le classi CSS possono essere applicate a più elementi per condividere uno stile.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 320 (PDF p. 336)",
+      "bookPage": 320,
+      "pdfPage": 336,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q35",
+      "q": "Lo stesso id va ripetuto ovunque.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Duplicare un id nello stesso documento rende l’identificazione ambigua.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 320 (PDF p. 336)",
+      "bookPage": 320,
+      "pdfPage": 336,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q36",
+      "q": "Il padding è lo spazio esterno al bordo.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Lo spazio esterno è il margine; il padding è interno al bordo.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 318 (PDF p. 334)",
+      "bookPage": 318,
+      "pdfPage": 334,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q37",
+      "q": "Il form raccoglie dati da inviare.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "I controlli del form raccolgono valori, che possono poi essere inviati o elaborati.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 326 (PDF p. 342)",
+      "bookPage": 326,
+      "pdfPage": 342,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q38",
+      "q": "Required obbliga la compilazione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La validazione required è un controllo del browser e non sostituisce verifiche sui dati ricevuti dal server.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 329 (PDF p. 345)",
+      "bookPage": 329,
+      "pdfPage": 345,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q39",
+      "q": "Il foglio esterno separa stile e contenuto.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Un foglio esterno centralizza le regole CSS e ne facilita il riuso.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 315 (PDF p. 331)",
+      "bookPage": 315,
+      "pdfPage": 331,
+      "type": "truefalse"
+    },
+    {
+      "id": "b1-q40",
+      "q": "I colori si scrivono anche in esadecimale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La notazione esadecimale è uno dei modi disponibili per esprimere un colore CSS.",
+      "topic": "Siti web, HTML e CSS",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 316 (PDF p. 332)",
+      "bookPage": 316,
+      "pdfPage": 332,
+      "type": "truefalse"
+    }
+  ]
+}

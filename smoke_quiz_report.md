@@ -1,18 +1,7 @@
-# Smoke test — InfoComm Quiz
+# Verifica versione 2 — 30 settembre 2026
 
-Data: 2026-09-29T16:23:52Z · Casi: 12 · PASS: 12 · FAIL: 0
-
-| ID | Caso | Esito | Dettaglio |
-|---|---|---|---|
-| A01 | File statici presenti | PASS | index, guida, app.js, style.css, quiz.json, .nojekyll, build script ok |
-| B02 | quiz.json: 10 moduli, 400 domande | PASS | 10 moduli, 400 domande |
-| B03 | quiz.json: schema, opzioni, fonti | PASS | 400 id unici, fonti ok; multiple=286, V/F=114 |
-| B04 | Logica punteggio + soglia (specchio di app.js) | PASS | tutto-giusto=40/40 PROMOSSO, tutto-vuoto=0 bocciato |
-| B05 | clamp min/n (specchio di app.js) | PASS | clamp ok: stringhe, None, fuori-range |
-| C06 | node --check app.js | PASS | JS sintassi valida |
-| C07 | index.html: tutti i blocchi presenti | PASS | home: solo quiz studente, area docente assente ok |
-| C08 | guida-docente.html: sezioni presenti | PASS | guida: 7 sezioni + ritorno home ok |
-| C09 | app.js: solo studente + fix regressione | PASS | app.js: solo studente, fix append ok |
-| C09b | docente.js: pagina riservata completa | PASS | docente.js: link classe, registro, CSV ok |
-| D10 | Server locale: 7 asset 200 + contenuto | PASS | /index.html 200; /data/quiz.json 200; /guida-docente.html 200; /docente.html 200; /assets/app.js 200; /assets/docente.js 200; /assets/style.css 200 |
-| E11 | GitHub Pages live: home, guida, quiz.json | PASS | live: / 200; /guida-docente.html 200; /docente.html 200; /data/quiz.json 200 |
+- Build TypeScript e Vite completata.
+- Sei test del motore passati: banca da 400 domande, selezione riproducibile, associazione risposte dopo mescolamento, voto, scadenza assoluta, limiti dei parametri e importazione.
+- Percorsi Playwright verificati su desktop 1440 px e mobile 390 px: ricerca, allenamento, feedback, ripresa, consegna, risultati, JSON, link classe con stesso ordine della stampa, correttore, importazione senza duplicati, CSV, timer, backup e redirect dei vecchi indirizzi.
+- Nessun errore JavaScript/console durante questi percorsi. Nessuno scorrimento orizzontale della pagina mobile.
+- I controlli strutturali non equivalgono a una validazione didattica indipendente di ogni quesito. I moduli A1–A5 sono rielaborati; A6 e B1–B4 riusano la banca precedente con correzioni di formulazioni, spiegazioni e riferimenti.

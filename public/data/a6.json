@@ -1,0 +1,707 @@
+{
+  "id": "a6",
+  "title": "PA digitale e servizi online",
+  "description": "Documenti, fatture elettroniche, acquisti pubblici, SPID e pagamenti.",
+  "book_pages": [
+    242,
+    283
+  ],
+  "questions": [
+    {
+      "id": "a6-q01",
+      "q": "L’AOO nella gestione documentale della PA è…",
+      "options": [
+        "un insieme di uffici e servizi con regole omogenee di gestione documentale",
+        "un software antivirus",
+        "un singolo documento protocollato",
+        "un formato di fattura"
+      ],
+      "answer": 0,
+      "explanation": "L’AOO raggruppa uffici e servizi che condividono criteri di gestione documentale e protocollo.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 245 (PDF p. 261)",
+      "bookPage": 245,
+      "pdfPage": 261,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q02",
+      "q": "La fattura elettronica…",
+      "options": [
+        "è un file strutturato che transita via SDI con valore fiscale",
+        "è una semplice scansione senza valore",
+        "si invia solo per posta",
+        "non esiste in Italia"
+      ],
+      "answer": 0,
+      "explanation": "La fattura elettronica contiene dati strutturati in XML; il sistema di interscambio ne gestisce il transito.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 256 (PDF p. 272)",
+      "bookPage": 256,
+      "pdfPage": 272,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q03",
+      "q": "Il 730 precompilato…",
+      "options": [
+        "è predisposto dall'Agenzia con dati già noti, da verificare/integrare",
+        "si compila solo a penna",
+        "non riguarda i lavoratori",
+        "è uguale per tutti senza modifiche"
+      ],
+      "answer": 0,
+      "explanation": "Il modello precompilato contiene informazioni già disponibili, che il contribuente deve verificare e può integrare.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 260 (PDF p. 276)",
+      "bookPage": 260,
+      "pdfPage": 276,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q04",
+      "q": "Il mercato elettronico della PA (MEPA) serve per…",
+      "options": [
+        "acquisti pubblici trasparenti e concorrenziali online",
+        "vendere auto usate tra privati",
+        "giocare online",
+        "guardare film"
+      ],
+      "answer": 0,
+      "explanation": "Il MePA è un mercato elettronico per gli acquisti della Pubblica Amministrazione.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 266 (PDF p. 282)",
+      "bookPage": 266,
+      "pdfPage": 282,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q05",
+      "q": "PagoPA è…",
+      "options": [
+        "il sistema di pagamenti elettronici verso la PA",
+        "una banca privata estera",
+        "un social network",
+        "un virus"
+      ],
+      "answer": 0,
+      "explanation": "PagoPA permette di effettuare pagamenti verso gli enti aderenti con procedure e ricevute digitali.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 280 (PDF p. 296)",
+      "bookPage": 280,
+      "pdfPage": 296,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q06",
+      "q": "Lo SPID è…",
+      "options": [
+        "l'identità digitale per accedere ai servizi online di PA e privati",
+        "una carta fedeltà del supermercato",
+        "un antivirus",
+        "un cavo di rete"
+      ],
+      "answer": 0,
+      "explanation": "SPID permette di identificarsi per accedere a servizi online aderenti, usando un’identità digitale.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 275 (PDF p. 291)",
+      "bookPage": 275,
+      "pdfPage": 291,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q07",
+      "q": "L'e-procurement indica…",
+      "options": [
+        "gli acquisti di beni/servizi tramite piattaforme digitali",
+        "la stampa di cataloghi",
+        "le aste in piazza",
+        "il baratto"
+      ],
+      "answer": 0,
+      "explanation": "L’e-procurement riguarda l’approvvigionamento tramite strumenti e piattaforme elettroniche.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 265 (PDF p. 281)",
+      "bookPage": 265,
+      "pdfPage": 281,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q08",
+      "q": "La fattura elettronica strutturata è distinta da una semplice scansione della fattura.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "XML organizza i dati della fattura in una struttura leggibile ed elaborabile dai sistemi informatici.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 256 (PDF p. 272)",
+      "bookPage": 256,
+      "pdfPage": 272,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q09",
+      "q": "Un pagamento PagoPA può essere documentato da una ricevuta.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La ricevuta e gli identificativi del pagamento aiutano a documentare l’operazione effettuata.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 280 (PDF p. 296)",
+      "bookPage": 280,
+      "pdfPage": 296,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q10",
+      "q": "Un’identità SPID può essere usata per accedere a più servizi aderenti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "L’identità digitale permette di accedere a più servizi aderenti senza creare un’identità distinta per ciascuno.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 275 (PDF p. 291)",
+      "bookPage": 275,
+      "pdfPage": 291,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q11",
+      "q": "Il protocollo informatico…",
+      "options": [
+        "registra entrata e uscita dei documenti PA",
+        "un medicinale",
+        "un insetto",
+        "un farmaco"
+      ],
+      "answer": 0,
+      "explanation": "Il protocollo registra i documenti secondo le procedure dell’ente, in entrata e in uscita.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 244 (PDF p. 260)",
+      "bookPage": 244,
+      "pdfPage": 260,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q12",
+      "q": "La segnatura di protocollo è…",
+      "options": [
+        "numero e data identificativi",
+        "una firma illeggibile",
+        "un timbro rotto",
+        "un disegno"
+      ],
+      "answer": 0,
+      "explanation": "La registrazione di protocollo associa al documento informazioni identificative, come numero e data.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 244 (PDF p. 260)",
+      "bookPage": 244,
+      "pdfPage": 260,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q13",
+      "q": "Il fascicolo digitale raccoglie…",
+      "options": [
+        "i documenti di un procedimento",
+        "fotografie",
+        "canzoni",
+        "ricette"
+      ],
+      "answer": 0,
+      "explanation": "Il fascicolo collega documenti relativi a una pratica o a un procedimento, rendendoli reperibili insieme.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 247 (PDF p. 263)",
+      "bookPage": 247,
+      "pdfPage": 263,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q14",
+      "q": "Il documento informatico rappresenta…",
+      "options": [
+        "atti, fatti o dati in forma digitale",
+        "soltanto fotografie prive di testo",
+        "esclusivamente copie stampate",
+        "solo i dati delle pagine social"
+      ],
+      "answer": 0,
+      "explanation": "Il documento informatico rappresenta in forma digitale atti, fatti o dati rilevanti; la sua efficacia dipende dai requisiti applicabili.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 243 (PDF p. 259)",
+      "bookPage": 243,
+      "pdfPage": 259,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q15",
+      "q": "L’accettazione di un documento nella PA richiede…",
+      "options": [
+        "controlli e passaggi previsti dal flusso documentale",
+        "la cancellazione dei riferimenti",
+        "soltanto il cambio del nome del file",
+        "la conversione obbligatoria in immagine"
+      ],
+      "answer": 0,
+      "explanation": "L’accettazione del documento richiede controlli e registrazioni previsti nel flusso documentale.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 248 (PDF p. 264)",
+      "bookPage": 248,
+      "pdfPage": 264,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q16",
+      "q": "La conservazione digitale…",
+      "options": [
+        "mantiene il valore legale nel tempo",
+        "butta tutto",
+        "dimentica tutto",
+        "cancella tutto"
+      ],
+      "answer": 0,
+      "explanation": "La conservazione è un processo organizzato per mantenere documenti accessibili, integri e utilizzabili nel tempo.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 259 (PDF p. 275)",
+      "bookPage": 259,
+      "pdfPage": 275,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q17",
+      "q": "Il titolario serve a…",
+      "options": [
+        "classificare i documenti secondo le funzioni dell’ente",
+        "calcolare i pagamenti",
+        "generare password",
+        "firmare automaticamente ogni file"
+      ],
+      "answer": 0,
+      "explanation": "Il titolario è uno schema di classificazione: organizza i documenti secondo le funzioni dell’ente.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 247 (PDF p. 263)",
+      "bookPage": 247,
+      "pdfPage": 263,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q18",
+      "q": "L'ANPR è…",
+      "options": [
+        "l'anagrafe nazionale della popolazione",
+        "un'agenzia viaggi",
+        "un giornale",
+        "una radio"
+      ],
+      "answer": 0,
+      "explanation": "L’anagrafe nazionale centralizza i dati anagrafici della popolazione residente.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 279 (PDF p. 295)",
+      "bookPage": 279,
+      "pdfPage": 295,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q19",
+      "q": "I dati del 730 precompilato devono essere…",
+      "options": [
+        "verificati e, se necessario, integrati",
+        "accettati sempre senza controllo",
+        "eliminati prima di leggerli",
+        "sostituiti con dati casuali"
+      ],
+      "answer": 0,
+      "explanation": "La precompilazione usa dati già disponibili all’amministrazione, ma non elimina la verifica da parte dell’interessato.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 260 (PDF p. 276)",
+      "bookPage": 260,
+      "pdfPage": 276,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q20",
+      "q": "Il 730 è…",
+      "options": [
+        "la dichiarazione dei redditi dei lavoratori",
+        "un modello di auto",
+        "un aereo",
+        "un treno"
+      ],
+      "answer": 0,
+      "explanation": "Il 730 è un modello di dichiarazione dei redditi rivolto, tra gli altri, a lavoratori dipendenti e pensionati.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 260 (PDF p. 276)",
+      "bookPage": 260,
+      "pdfPage": 276,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q21",
+      "q": "L’approvvigionamento elettronico riguarda…",
+      "options": [
+        "l’acquisto di beni e servizi attraverso strumenti digitali",
+        "soltanto la vendita tra privati",
+        "solo l’invio di newsletter",
+        "l’archiviazione delle password"
+      ],
+      "answer": 0,
+      "explanation": "L’approvvigionamento elettronico porta online fasi del processo di acquisto di beni e servizi.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 265 (PDF p. 281)",
+      "bookPage": 265,
+      "pdfPage": 281,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q22",
+      "q": "Gli strumenti di acquisto nel MePA servono a…",
+      "options": [
+        "gestire procedure di approvvigionamento",
+        "montare contenuti video",
+        "definire fogli di stile",
+        "creare reti private"
+      ],
+      "answer": 0,
+      "explanation": "Gli strumenti di acquisto permettono di scegliere modalità adatte alle esigenze di approvvigionamento della PA.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 267 (PDF p. 283)",
+      "bookPage": 267,
+      "pdfPage": 283,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q23",
+      "q": "Le informazioni di recapito della fattura servono a…",
+      "options": [
+        "indirizzarla al destinatario attraverso lo SDI",
+        "calcolare la risoluzione delle immagini",
+        "assegnare un voto al fornitore",
+        "cambiare il codice ATECO"
+      ],
+      "answer": 0,
+      "explanation": "Il codice destinatario permette il recapito attraverso il sistema di interscambio; il contesto PA ha specifiche proprie.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 258 (PDF p. 274)",
+      "bookPage": 258,
+      "pdfPage": 274,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q24",
+      "q": "Una scansione della fattura rispetto al file XML…",
+      "options": [
+        "non ne sostituisce la struttura dei dati",
+        "è sempre lo stesso formato",
+        "contiene automaticamente gli stessi campi strutturati",
+        "rende inutile lo SDI"
+      ],
+      "answer": 0,
+      "explanation": "Una semplice immagine o scansione non contiene la struttura XML richiesta al file fattura.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 256 (PDF p. 272)",
+      "bookPage": 256,
+      "pdfPage": 272,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q25",
+      "q": "Il workflow documentale descrive…",
+      "options": [
+        "il percorso del documento tra attività e soggetti",
+        "il colore del documento",
+        "solo il suo peso in byte",
+        "soltanto il nome dell’autore"
+      ],
+      "answer": 0,
+      "explanation": "Un workflow descrive il percorso del documento tra attività, soggetti e verifiche.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 249 (PDF p. 265)",
+      "bookPage": 249,
+      "pdfPage": 265,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q26",
+      "q": "L’abilitazione di un’impresa al MePA permette di…",
+      "options": [
+        "operare nelle categorie e secondo i requisiti previsti",
+        "accedere senza requisiti a ogni servizio pubblico",
+        "eliminare la contabilità",
+        "evitare ogni procedura di acquisto"
+      ],
+      "answer": 0,
+      "explanation": "L’abilitazione permette alle imprese di operare nel mercato elettronico secondo le categorie e i requisiti previsti.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 268 (PDF p. 284)",
+      "bookPage": 268,
+      "pdfPage": 284,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q27",
+      "q": "Il secondo livello SPID aggiunge alla password…",
+      "options": [
+        "un ulteriore fattore di verifica",
+        "un secondo nome utente pubblico",
+        "il codice di un prodotto",
+        "un numero di protocollo"
+      ],
+      "answer": 0,
+      "explanation": "Il secondo livello SPID aggiunge un fattore di verifica alla password, ad esempio una credenziale temporanea.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 276 (PDF p. 292)",
+      "bookPage": 276,
+      "pdfPage": 292,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q28",
+      "q": "L’identificazione digitale permette al servizio di…",
+      "options": [
+        "riconoscere l’utente che chiede accesso",
+        "modificare i prezzi delle fatture",
+        "eliminare l’autenticazione",
+        "cambiare le funzioni del browser"
+      ],
+      "answer": 0,
+      "explanation": "L’identificazione digitale permette a un servizio di riconoscere l’utente che chiede accesso.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 275 (PDF p. 291)",
+      "bookPage": 275,
+      "pdfPage": 291,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q29",
+      "q": "L'app IO riunisce…",
+      "options": [
+        "i servizi pubblici sullo smartphone",
+        "giochi",
+        "film",
+        "musica"
+      ],
+      "answer": 0,
+      "explanation": "IO offre un punto di accesso da smartphone a comunicazioni e servizi degli enti aderenti.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 281 (PDF p. 297)",
+      "bookPage": 281,
+      "pdfPage": 297,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q30",
+      "q": "Il responsabile della gestione documentale si occupa di…",
+      "options": [
+        "coordinare regole e attività sui documenti",
+        "gestire esclusivamente la pubblicità",
+        "progettare soltanto i cavi di rete",
+        "elaborare solo file audio"
+      ],
+      "answer": 0,
+      "explanation": "Il responsabile della gestione documentale coordina le attività e le regole di gestione dei documenti.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 246 (PDF p. 262)",
+      "bookPage": 246,
+      "pdfPage": 262,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q31",
+      "q": "Nell’accesso con SPID, il gestore dell’identità…",
+      "options": [
+        "verifica le credenziali secondo il livello richiesto",
+        "crea automaticamente tutte le fatture",
+        "assegna un protocollo a ogni immagine",
+        "sostituisce il servizio pubblico richiesto"
+      ],
+      "answer": 0,
+      "explanation": "L’accesso con SPID richiede il riconoscimento tramite il gestore dell’identità e il livello previsto dal servizio.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 277 (PDF p. 293)",
+      "bookPage": 277,
+      "pdfPage": 293,
+      "type": "multiple"
+    },
+    {
+      "id": "a6-q32",
+      "q": "Il protocollo registra solo l'uscita.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il protocollo riguarda anche i documenti in entrata: non soltanto quelli spediti dall’ente.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 244 (PDF p. 260)",
+      "bookPage": 244,
+      "pdfPage": 260,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q33",
+      "q": "La conservazione digitale coincide con il semplice salvataggio di un file in una cartella.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La conservazione richiede procedure e responsabilità; non coincide con il semplice salvataggio di un file in una cartella.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 259 (PDF p. 275)",
+      "bookPage": 259,
+      "pdfPage": 275,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q34",
+      "q": "Il 730 precompilato non si può modificare.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "I dati del 730 precompilato possono richiedere verifica, correzione e integrazione.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 260 (PDF p. 276)",
+      "bookPage": 260,
+      "pdfPage": 276,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q35",
+      "q": "Lo SDI recapita le fatture elettroniche.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Lo SDI svolge controlli e recapita le fatture secondo il flusso previsto.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 258 (PDF p. 274)",
+      "bookPage": 258,
+      "pdfPage": 274,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q36",
+      "q": "PagoPA rende tracciabili i pagamenti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il pagamento digitale produce elementi utili a identificare e documentare l’operazione.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 280 (PDF p. 296)",
+      "bookPage": 280,
+      "pdfPage": 296,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q37",
+      "q": "Tutti i livelli SPID prevedono esattamente gli stessi requisiti di autenticazione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "I livelli di sicurezza SPID prevedono requisiti di autenticazione differenti.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 276 (PDF p. 292)",
+      "bookPage": 276,
+      "pdfPage": 292,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q38",
+      "q": "L'app IO riunisce i servizi pubblici.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "IO riunisce servizi e comunicazioni della Pubblica Amministrazione aderente.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 281 (PDF p. 297)",
+      "bookPage": 281,
+      "pdfPage": 297,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q39",
+      "q": "Il titolario aiuta a classificare i documenti secondo criteri condivisi.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Classificare i documenti con criteri comuni ne facilita organizzazione e recupero.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 247 (PDF p. 263)",
+      "bookPage": 247,
+      "pdfPage": 263,
+      "type": "truefalse"
+    },
+    {
+      "id": "a6-q40",
+      "q": "Il codice destinatario serve per le fatture.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le informazioni di recapito indirizzano la fattura verso il destinatario nel sistema di interscambio.",
+      "topic": "PA digitale e servizi online",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 258 (PDF p. 274)",
+      "bookPage": 258,
+      "pdfPage": 274,
+      "type": "truefalse"
+    }
+  ]
+}

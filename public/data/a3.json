@@ -1,0 +1,691 @@
+{
+  "id": "a3",
+  "title": "Marketing web e analisi dei dati",
+  "description": "Strumenti social, web analytics, marketing virale e uso consapevole dei contenuti.",
+  "book_pages": [
+    104,
+    149
+  ],
+  "questions": [
+    {
+      "id": "a3-q01",
+      "q": "Quale esigenza affronta un gestore di social media descritto nel libro?",
+      "options": [
+        "Coordinare pubblicazioni e attività su più profili",
+        "Assegnare indirizzi IP ai computer",
+        "Produrre fatture tramite SDI",
+        "Cifrare ogni file del magazzino"
+      ],
+      "answer": 0,
+      "explanation": "Gli strumenti di social media management aiutano a organizzare presenza, pubblicazione e monitoraggio sui canali social.",
+      "topic": "Strumenti social",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 105 (PDF p. 121)",
+      "bookPage": 105,
+      "pdfPage": 121,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q02",
+      "q": "Un gestore di social media può aiutare a pianificare le pubblicazioni.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Gli strumenti di social media management aiutano a organizzare presenza, pubblicazione e monitoraggio sui canali social.",
+      "topic": "Strumenti social",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 105 (PDF p. 121)",
+      "bookPage": 105,
+      "pdfPage": 121,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q03",
+      "q": "Un team vuole preparare oggi i post da pubblicare la prossima settimana. Quale funzione è utile?",
+      "options": [
+        "Programmazione dei contenuti",
+        "Protocollo di trasporto",
+        "Quantizzazione audio",
+        "Convalida delle celle"
+      ],
+      "answer": 0,
+      "explanation": "La programmazione permette di predisporre contenuti e tempi di pubblicazione in modo coordinato.",
+      "topic": "Strumenti social",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 106 (PDF p. 122)",
+      "bookPage": 106,
+      "pdfPage": 122,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q04",
+      "q": "Programmare un post elimina la necessità di controllarne contenuto e pertinenza.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La programmazione permette di predisporre contenuti e tempi di pubblicazione in modo coordinato.",
+      "topic": "Strumenti social",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 106 (PDF p. 122)",
+      "bookPage": 106,
+      "pdfPage": 122,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q05",
+      "q": "Quale attività è tipica di Audacity nel contesto del libro?",
+      "options": [
+        "Registrare ed elaborare audio",
+        "Amministrare il catalogo di un ERP",
+        "Compilare fogli di stile",
+        "Recapitare fatture elettroniche"
+      ],
+      "answer": 0,
+      "explanation": "Audacity è presentato come uno strumento per registrazione, modifica ed elaborazione di tracce audio.",
+      "topic": "Strumenti social",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 111 (PDF p. 127)",
+      "bookPage": 111,
+      "pdfPage": 127,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q06",
+      "q": "Audacity è descritto nel libro come un sistema di gestione delle fatture.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Audacity è presentato come uno strumento per registrazione, modifica ed elaborazione di tracce audio.",
+      "topic": "Strumenti social",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 111 (PDF p. 127)",
+      "bookPage": 111,
+      "pdfPage": 127,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q07",
+      "q": "Qual è lo scopo della web analytics?",
+      "options": [
+        "Usare dati di navigazione per comprendere e migliorare le attività web",
+        "Misurare esclusivamente il numero di computer dell’ufficio",
+        "Definire soltanto i colori del sito",
+        "Sostituire ogni decisione con un conteggio"
+      ],
+      "answer": 0,
+      "explanation": "La web analytics collega raccolta e analisi dei dati agli obiettivi dell’attività web e alle possibili azioni di miglioramento.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 115 (PDF p. 131)",
+      "bookPage": 115,
+      "pdfPage": 131,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q08",
+      "q": "Raccogliere dati web ha utilità quando permette di valutare obiettivi e decisioni.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "La web analytics collega raccolta e analisi dei dati agli obiettivi dell’attività web e alle possibili azioni di miglioramento.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 115 (PDF p. 131)",
+      "bookPage": 115,
+      "pdfPage": 131,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q09",
+      "q": "Quale attività dovrebbe precedere la scelta delle metriche?",
+      "options": [
+        "Definire gli obiettivi da valutare",
+        "Cambiare tutti i contenuti senza analisi",
+        "Scegliere la metrica con il numero più alto",
+        "Duplicare i dati di visita"
+      ],
+      "answer": 0,
+      "explanation": "Gli obiettivi determinano quali misure sono pertinenti. Una metrica priva di contesto può essere fuorviante.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 115 (PDF p. 131)",
+      "bookPage": 115,
+      "pdfPage": 131,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q10",
+      "q": "La stessa metrica è sempre la migliore per qualunque obiettivo aziendale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Gli obiettivi determinano quali misure sono pertinenti. Una metrica priva di contesto può essere fuorviante.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 115 (PDF p. 131)",
+      "bookPage": 115,
+      "pdfPage": 131,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q11",
+      "q": "Quale esempio è una metrica quantitativa?",
+      "options": [
+        "Numero di visite",
+        "Nome della città",
+        "Tipo di dispositivo",
+        "Nome della campagna"
+      ],
+      "answer": 0,
+      "explanation": "Una metrica quantifica un fenomeno; una dimensione ne descrive una caratteristica, ad esempio città o dispositivo.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 119 (PDF p. 135)",
+      "bookPage": 119,
+      "pdfPage": 135,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q12",
+      "q": "Il tipo di dispositivo è una misura numerica equivalente al numero di visite.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Una metrica quantifica un fenomeno; una dimensione ne descrive una caratteristica, ad esempio città o dispositivo.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 119 (PDF p. 135)",
+      "bookPage": 119,
+      "pdfPage": 135,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q13",
+      "q": "Quale esempio è una dimensione di analisi?",
+      "options": [
+        "Provenienza geografica",
+        "Numero totale di accessi",
+        "Conteggio delle conversioni",
+        "Durata media espressa in secondi"
+      ],
+      "answer": 0,
+      "explanation": "Le dimensioni descrivono e suddividono i dati; le metriche consentono di misurare i gruppi così individuati.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 119 (PDF p. 135)",
+      "bookPage": 119,
+      "pdfPage": 135,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q14",
+      "q": "Si possono confrontare metriche raggruppandole per una dimensione, come la città.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Le dimensioni descrivono e suddividono i dati; le metriche consentono di misurare i gruppi così individuati.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 119 (PDF p. 135)",
+      "bookPage": 119,
+      "pdfPage": 135,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q15",
+      "q": "Un obiettivo del sito è ricevere richieste di preventivo. Quale evento è una conversione?",
+      "options": [
+        "Invio completo del modulo di richiesta",
+        "Qualunque apertura della home page",
+        "Ogni modifica del logo",
+        "Qualunque download di un font"
+      ],
+      "answer": 0,
+      "explanation": "Una conversione è il raggiungimento di un’azione obiettivo. In questo caso conta la richiesta di preventivo completata.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 115 (PDF p. 131)",
+      "bookPage": 115,
+      "pdfPage": 131,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q16",
+      "q": "L’azione considerata conversione dipende dall’obiettivo stabilito per il sito.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Una conversione è il raggiungimento di un’azione obiettivo. In questo caso conta la richiesta di preventivo completata.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 115 (PDF p. 131)",
+      "bookPage": 115,
+      "pdfPage": 131,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q17",
+      "q": "Una campagna registra 20 azioni obiettivo su 200 visite. Qual è il rapporto percentuale?",
+      "options": [
+        "10%",
+        "1%",
+        "20%",
+        "40%"
+      ],
+      "answer": 0,
+      "explanation": "Il rapporto si calcola dividendo 20 per 200 e moltiplicando per 100. Occorre mantenere coerente la base di confronto.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 119 (PDF p. 135)",
+      "bookPage": 119,
+      "pdfPage": 135,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q18",
+      "q": "20 azioni su 200 visite corrispondono al 20%.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il rapporto si calcola dividendo 20 per 200 e moltiplicando per 100. Occorre mantenere coerente la base di confronto.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 119 (PDF p. 135)",
+      "bookPage": 119,
+      "pdfPage": 135,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q19",
+      "q": "Perché confrontare le sorgenti di traffico?",
+      "options": [
+        "Per capire quali canali portano visite e risultati",
+        "Per ricavare automaticamente le password",
+        "Per evitare di definire gli obiettivi",
+        "Per sostituire la base dati aziendale"
+      ],
+      "answer": 0,
+      "explanation": "Conoscere l’origine delle visite permette di valutare canali e campagne in rapporto alle azioni degli utenti.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 118 (PDF p. 134)",
+      "bookPage": 118,
+      "pdfPage": 134,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q20",
+      "q": "Un totale di visite identico garantisce risultati identici per ogni canale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Conoscere l’origine delle visite permette di valutare canali e campagne in rapporto alle azioni degli utenti.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 118 (PDF p. 134)",
+      "bookPage": 118,
+      "pdfPage": 134,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q21",
+      "q": "Quale decisione segue un processo di analytics completo?",
+      "options": [
+        "Usare l’analisi per introdurre e valutare miglioramenti",
+        "Archiviare i numeri senza interpretarli",
+        "Interrompere ogni misurazione",
+        "Scegliere soltanto il dato più favorevole"
+      ],
+      "answer": 0,
+      "explanation": "Il processo non termina con la raccolta: analisi e decisioni devono tradursi in azioni e nuove verifiche.",
+      "topic": "Web analytics",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 123 (PDF p. 139)",
+      "bookPage": 123,
+      "pdfPage": 139,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q22",
+      "q": "L’analisi dei dati può portare a modificare una campagna e misurarne gli effetti.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il processo non termina con la raccolta: analisi e decisioni devono tradursi in azioni e nuove verifiche.",
+      "topic": "Web analytics",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 123 (PDF p. 139)",
+      "bookPage": 123,
+      "pdfPage": 139,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q23",
+      "q": "Quale meccanismo caratterizza il marketing virale?",
+      "options": [
+        "Diffusione del messaggio attraverso le condivisioni degli utenti",
+        "Diffusione di malware sui dispositivi",
+        "Invio di sole fatture al pubblico",
+        "Registrazione di tutte le vendite in un ERP"
+      ],
+      "answer": 0,
+      "explanation": "Il termine virale descrive la propagazione del contenuto tra utenti; non indica un virus informatico.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 130 (PDF p. 146)",
+      "bookPage": 130,
+      "pdfPage": 146,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q24",
+      "q": "Una campagna virale si basa anche sulla disponibilità degli utenti a condividere il messaggio.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il termine virale descrive la propagazione del contenuto tra utenti; non indica un virus informatico.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 130 (PDF p. 146)",
+      "bookPage": 130,
+      "pdfPage": 146,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q25",
+      "q": "Quale caratteristica è associata al guerriglia marketing?",
+      "options": [
+        "Azioni sorprendenti e non convenzionali",
+        "Uso esclusivo di comunicazioni contabili",
+        "Obbligo di acquistare spazi televisivi",
+        "Eliminazione dell’identità aziendale"
+      ],
+      "answer": 0,
+      "explanation": "Il guerriglia marketing cerca attenzione con iniziative originali e inattese, rispetto ai formati pubblicitari abituali.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 127 (PDF p. 143)",
+      "bookPage": 127,
+      "pdfPage": 143,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q26",
+      "q": "Il guerriglia marketing indica necessariamente una campagna televisiva tradizionale.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Il guerriglia marketing cerca attenzione con iniziative originali e inattese, rispetto ai formati pubblicitari abituali.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 127 (PDF p. 143)",
+      "bookPage": 127,
+      "pdfPage": 143,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q27",
+      "q": "Quale scelta è coerente con l’ambient marketing?",
+      "options": [
+        "Integrare il messaggio nell’ambiente in cui il pubblico si trova",
+        "Limitarsi a registrare indirizzi email",
+        "Installare un server di posta",
+        "Modificare soltanto le formule del bilancio"
+      ],
+      "answer": 0,
+      "explanation": "L’ambient marketing sfrutta caratteristiche e contesto dell’ambiente per rendere il messaggio riconoscibile e coinvolgente.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 128 (PDF p. 144)",
+      "bookPage": 128,
+      "pdfPage": 144,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q28",
+      "q": "Il contesto fisico può far parte della costruzione di un messaggio di ambient marketing.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "L’ambient marketing sfrutta caratteristiche e contesto dell’ambiente per rendere il messaggio riconoscibile e coinvolgente.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 128 (PDF p. 144)",
+      "bookPage": 128,
+      "pdfPage": 144,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q29",
+      "q": "Quale uso rende un meme coerente con una comunicazione aziendale?",
+      "options": [
+        "Adattarlo al pubblico e al messaggio della marca",
+        "Pubblicarlo senza considerarne il significato",
+        "Usarlo soltanto perché è popolare",
+        "Rimuovere ogni relazione con l’offerta"
+      ],
+      "answer": 0,
+      "explanation": "Un contenuto condivisibile deve restare pertinente alla comunicazione e comprensibile per il pubblico a cui è destinato.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 133 (PDF p. 149)",
+      "bookPage": 133,
+      "pdfPage": 149,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q30",
+      "q": "La popolarità di un meme garantisce che sia adatto a qualunque azienda.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Un contenuto condivisibile deve restare pertinente alla comunicazione e comprensibile per il pubblico a cui è destinato.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 133 (PDF p. 149)",
+      "bookPage": 133,
+      "pdfPage": 149,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q31",
+      "q": "Che cosa permette una GIF animata?",
+      "options": [
+        "Mostrare una sequenza breve di immagini",
+        "Archiviare una formula di Excel",
+        "Firmare digitalmente un contratto",
+        "Creare automaticamente un catalogo ERP"
+      ],
+      "answer": 0,
+      "explanation": "Una GIF può contenere fotogrammi che producono un’animazione; è un formato visuale usato anche nei contenuti condivisibili.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 135 (PDF p. 151)",
+      "bookPage": 135,
+      "pdfPage": 151,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q32",
+      "q": "Una GIF animata può mostrare più fotogrammi in sequenza.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Una GIF può contenere fotogrammi che producono un’animazione; è un formato visuale usato anche nei contenuti condivisibili.",
+      "topic": "Marketing non convenzionale",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 135 (PDF p. 151)",
+      "bookPage": 135,
+      "pdfPage": 151,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q33",
+      "q": "Prima di inserire una foto trovata online in una campagna, cosa occorre verificare?",
+      "options": [
+        "Diritti e condizioni di utilizzo",
+        "Soltanto il numero di download",
+        "Solo il colore dominante",
+        "Solo la posizione nei risultati di ricerca"
+      ],
+      "answer": 0,
+      "explanation": "La reperibilità online non equivale a un’autorizzazione al riuso: occorre verificare diritti e condizioni applicabili.",
+      "topic": "Diritto d’autore",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 146 (PDF p. 162)",
+      "bookPage": 146,
+      "pdfPage": 162,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q34",
+      "q": "Tutte le immagini visibili su un motore di ricerca sono automaticamente riutilizzabili.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "La reperibilità online non equivale a un’autorizzazione al riuso: occorre verificare diritti e condizioni applicabili.",
+      "topic": "Diritto d’autore",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 146 (PDF p. 162)",
+      "bookPage": 146,
+      "pdfPage": 162,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q35",
+      "q": "Che cosa distingue i diritti morali dai diritti patrimoniali?",
+      "options": [
+        "I primi riguardano il legame dell’autore con l’opera, i secondi lo sfruttamento economico",
+        "I primi riguardano soltanto il prezzo del file",
+        "I secondi riguardano soltanto il nome dell’autore",
+        "Sono due nomi per la password dell’opera"
+      ],
+      "answer": 0,
+      "explanation": "Il libro distingue la tutela del rapporto autore-opera dalla gestione delle facoltà di utilizzazione economica.",
+      "topic": "Diritto d’autore",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 141 (PDF p. 157)",
+      "bookPage": 141,
+      "pdfPage": 157,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q36",
+      "q": "Il riconoscimento della paternità dell’opera riguarda il legame dell’autore con la creazione.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Il libro distingue la tutela del rapporto autore-opera dalla gestione delle facoltà di utilizzazione economica.",
+      "topic": "Diritto d’autore",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 141 (PDF p. 157)",
+      "bookPage": 141,
+      "pdfPage": 157,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q37",
+      "q": "Citare l’autore di una foto consente sempre di usarla in una pubblicità?",
+      "options": [
+        "No, occorre anche verificare il permesso di utilizzo",
+        "Sì, purché il nome sia in grassetto",
+        "Sì, se la foto è piccola",
+        "Sì, se il sito è gratuito"
+      ],
+      "answer": 0,
+      "explanation": "Attribuzione e autorizzazione sono aspetti diversi. Indicare la fonte non sostituisce il permesso necessario al tipo di uso.",
+      "topic": "Diritto d’autore",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 146 (PDF p. 162)",
+      "bookPage": 146,
+      "pdfPage": 162,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q38",
+      "q": "Citare una fonte non rende automaticamente autorizzato qualunque uso del contenuto.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 0,
+      "explanation": "Attribuzione e autorizzazione sono aspetti diversi. Indicare la fonte non sostituisce il permesso necessario al tipo di uso.",
+      "topic": "Diritto d’autore",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 146 (PDF p. 162)",
+      "bookPage": 146,
+      "pdfPage": 162,
+      "type": "truefalse"
+    },
+    {
+      "id": "a3-q39",
+      "q": "Un programma è scaricabile gratuitamente. Che cosa si può dedurre?",
+      "options": [
+        "Occorre comunque leggere la licenza per conoscere gli usi consentiti",
+        "Il codice sorgente è necessariamente pubblico",
+        "La rivendita è sempre autorizzata",
+        "Ogni modifica è automaticamente permessa"
+      ],
+      "answer": 0,
+      "explanation": "Prezzo e licenza sono aspetti distinti: gratuità del download non determina da sola diritti di modifica o distribuzione.",
+      "topic": "Diritto d’autore",
+      "difficulty": "intermedia",
+      "source": "InfoComm, ed. 2021 · p. 142 (PDF p. 158)",
+      "bookPage": 142,
+      "pdfPage": 158,
+      "type": "multiple"
+    },
+    {
+      "id": "a3-q40",
+      "q": "Un software gratuito è sempre anche open source.",
+      "options": [
+        "Vero",
+        "Falso"
+      ],
+      "answer": 1,
+      "explanation": "Prezzo e licenza sono aspetti distinti: gratuità del download non determina da sola diritti di modifica o distribuzione.",
+      "topic": "Diritto d’autore",
+      "difficulty": "base",
+      "source": "InfoComm, ed. 2021 · p. 142 (PDF p. 158)",
+      "bookPage": 142,
+      "pdfPage": 158,
+      "type": "truefalse"
+    }
+  ]
+}
